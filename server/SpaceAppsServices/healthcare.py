@@ -3,7 +3,7 @@ import pandas as pd
 def readDataForHealthcare(healthcareFileName):
     headers = ["city", "rating"]
     df = pd.read_csv(healthcareFileName, names=headers)
-    print(df["rating"])
+    return df.to_json(orient='records')
     #print(df['rating'])
 
 readDataForHealthcare("test.csv")
