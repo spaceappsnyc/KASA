@@ -6,4 +6,4 @@ def readDataForHealthcare(healthcareFileName):
     return df.to_json(orient='records')
     #print(df['rating'])
 
-readDataForHealthcare("test.csv")
+readDataForHealthcare("./resources/test.csv")
