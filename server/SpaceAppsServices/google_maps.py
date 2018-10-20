@@ -4,6 +4,19 @@ import requests
 import constants
 
 def getDistance(originCoordinates, destinationCoordinates):
+    """
+    Returns distance between two coordinates
+
+    Args:
+        originCoordinates (str): coordinate of origin
+        destinationCoordinates (str): coordinate of destination
+
+    Returns:
+        {
+            text (str): friendly human-readable representation of the distance i.e. "2000 km"
+            value (long): distance in meters
+        }
+    """
     url = constants.GOOGLE_MAPS_DISTANCE_API + "?" + constants.GOOGLE_MAPS_KEY_URI + "&origins=" + originCoordinates + "&destinations=" + destinationCoordinates
     response = requests.get(url)
     if (response.status_code == 200):
