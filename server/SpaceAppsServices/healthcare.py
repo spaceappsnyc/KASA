@@ -6,4 +6,4 @@ def readDataForHealthcare(healthcareFileName):
     print(df["rating"])
     #print(df['rating'])
 
-readDataForHealthcare("test.csv")
+readDataForHealthcare("./resources/test.csv")
