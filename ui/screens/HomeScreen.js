@@ -42,7 +42,7 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
-              We are Team SAAK! TEST
+              We are Team SAAK!
             </Text>
           </View>
 
