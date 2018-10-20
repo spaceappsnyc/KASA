@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Lugbe IDP Camp",
+        "city": "Abuja",
+        "region": "Abuja",
+        "country": "Nigeria",
+        "latitude": "9.0264834",
+        "longitude": "7.3975932"
+    },
+    {
+        "name": "Area One IDP Camp",
+        "city": "Abuja",
+        "region": "Abuja",
+        "country": "Nigeria",
+        "latitude": "9.0264701",
+        "longitude": "7.397593"
+    },
+    {
+        "name": "New Kuchingoro IDP Camp",
+        "city": "Abuja",
+        "region": "Abuja",
+        "country": "Nigeria",
+        "latitude": "9.0543071",
+        "longitude": "7.25427"
+    },
+    {
+        "name": "Kuje IDP Camp",
+        "city": "Abuja",
+        "region": "Abuja",
+        "country": "Nigeria",
+        "latitude": "9.0543071",
+        "longitude": "7.25427"
+    },
+    {
+        "name": "Lagos IDP Camp",
+        "city": "Lagos",
+        "region": "Lagos State",
+        "country": "Nigeria",
+        "latitude": "6.4932649",
+        "longitude": "3.6544819"
+    },
+    {
+        "name": "Arabic Teachers College IDP Camp",
+        "city": "Maiduguri",
+        "region": "Borno State",
+        "country": "Nigeria",
+        "latitude": "11.8407948",
+        "longitude": "13.0615934"
+    },
+    {
+        "name": "Teachers Village IDP Camp",
+        "city": "Maiduguri",
+        "region": "Borno State",
+        "country": "Nigeria",
+        "latitude": "11.8407948",
+        "longitude": "13.0615934"
+    },
+    {
+        "name": "National Youth Service Scheme IDP Camp",
+        "city": "Maiduguri",
+        "region": "Borno State",
+        "country": "Nigeria",
+        "latitude": "11.840812",
+        "longitude": "13.0615935"
+    },
+    {
+        "name": "Gubio IDP Camp",
+        "city": "Maiduguri",
+        "region": "Borno State",
+        "country": "Nigeria",
+        "latitude": "11.840812",
+        "longitude": "13.0615935"
+    }
+]
