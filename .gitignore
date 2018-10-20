@@ -1,3 +1,4 @@
 node_modules/**/*
 .expo/**/*
 ui/node_modules/**/*
+server/SpaceAppsServices/**/*.pyc
