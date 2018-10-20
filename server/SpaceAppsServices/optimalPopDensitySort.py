@@ -10,5 +10,3 @@ def optimalPopDensitySort(cityList):
         cityToDensity[city['city']] = diff
     
     sortedCities = sorted(cityToDensity, key=cityToDensity.get)
-
-    print(sortedCities)
