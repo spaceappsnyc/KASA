@@ -8,7 +8,7 @@ def getDistance(originCoordinates, destinationCoordinates):
     Returns distance between two coordinates
 
     Args:
-        originCoordinates (str): coordinate of origin
+        originCoordinates (str): coordinate of origin eg: 'lat,long'
         destinationCoordinates (str): coordinate of destination
 
     Returns:
