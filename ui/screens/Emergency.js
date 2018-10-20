@@ -21,6 +21,9 @@ const User = t.struct({
 });
 
 export default class RegistrationScreen extends Component {
+  static navigationOptions = {
+    header: null,
+  };
   render() {
     return ( 
         <View style={styles.container}>
