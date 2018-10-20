@@ -1,45 +1,44 @@
-import React, { Component } from 'react';
-import {
-    Image,
-    Platform,
-    ScrollView,
-    StyleSheet,
-    Text,
-    TouchableOpacity,
-    View,
-  } from 'react-native';
+import React from 'react';
+import { Text, SafeAreaView, StyleSheet } from 'react-native';
+import Map from '../components/Map'
+import FlatListBasics from '../components/List';
 
-import t from 'tcomb-form-native'; // 0.6.9
+const region = {
+  latitude: 6.465422,
+  longitude: 3.406448,
+  latitudeDelta: 0.0922,
+  longitudeDelta: 0.0421
+}
 
-const Form = t.form.Form;
-
-const User = t.struct({
-  email: t.String,
-  username: t.String,
-  password: t.String,
-  terms: t.Boolean
-});
-
-export default class RegistrationScreen extends Component {
+export default class EmergencyScreen extends React.Component {
   static navigationOptions = {
-    header: null,
+    title: 'Emergency',
   };
+  state = {
+    region: null,
+    camps: []
+  }
+
   render() {
-    return ( 
-        <View style={styles.container}>
-            <Text style={styles.getStartedText}>
-              Emergency!!
-            </Text>
-          </View>
+    return (
+      <SafeAreaView style={styles.container}>
+        <Map
+          region={region}
+          places={this.state.camps}
+        />
+        <FlatListBasics ></FlatListBasics>
+      </SafeAreaView>
     );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
-    justifyContent: 'center',
-    marginTop: 0,
-    padding: 20,
-    backgroundColor: '#ffffff',
-  },
-});
+    flex: 1,
+    flexDirection: 'column',
+    backgroundColor: '#fff',
+  }
+})
+
+
+
