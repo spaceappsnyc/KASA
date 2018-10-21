@@ -989,36 +989,6 @@
 		"siteName": "FULATARI 2",
 		"siteType": "Collective Settlement Centre"
 	},
-	"FULATARI CAMP": {
-		"accessToIncomeGeneratingActivities": "Yes",
-		"foodSupport": "Yes",
-		"frequencyOfFoodDistribution": "Once a month",
-		"healthSupport": "Yes",
-		"percentOfFunctioningToilets": 78,
-		"potableWater": "Yes",
-		"siteName": "FULATARI CAMP",
-		"siteType": "Collective Settlement Centre"
-	},
-	"FULATARI CAMP JERE": {
-		"accessToIncomeGeneratingActivities": "Yes",
-		"foodSupport": "No",
-		"frequencyOfFoodDistribution": "Never",
-		"healthSupport": "No",
-		"percentOfFunctioningToilets": 4,
-		"potableWater": "Yes",
-		"siteName": "FULATARI CAMP JERE",
-		"siteType": "Collective Settlement Centre"
-	},
-	"FULATARI FARIN RUWA": {
-		"accessToIncomeGeneratingActivities": "Yes",
-		"foodSupport": "Yes",
-		"frequencyOfFoodDistribution": "Irregular",
-		"healthSupport": "No",
-		"percentOfFunctioningToilets": 15,
-		"potableWater": "Yes",
-		"siteName": "FULATARI FARIN RUWA",
-		"siteType": "Camp"
-	},
 	"FUNAI": {
 		"accessToIncomeGeneratingActivities": "Yes",
 		"foodSupport": "Yes",

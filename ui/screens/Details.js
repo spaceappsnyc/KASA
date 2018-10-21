@@ -1240,14 +1240,6 @@ export default class EmergencyScreen extends React.Component {
         },
         {
           "coords": {
-            "latitude": 12.03718,
-            "longitude": 13.90129
-          },
-          "idpCamp": "FULATARI CAMP",
-          "score": 650
-        },
-        {
-          "coords": {
             "latitude": 11.16569,
             "longitude": 12.75927
           },
@@ -1980,22 +1972,6 @@ export default class EmergencyScreen extends React.Component {
             "longitude": 12.18285
           },
           "idpCamp": "ZONAL EDUCATION CENTER CAMP, BIU",
-          "score": 500
-        },
-        {
-          "coords": {
-            "latitude": 12.48498,
-            "longitude": 13.21178
-          },
-          "idpCamp": "LG QUARTERS",
-          "score": 500
-        },
-        {
-          "coords": {
-            "latitude": 12.48092,
-            "longitude": 13.20653
-          },
-          "idpCamp": "BOARDING PRIMARY SCHOOL",
           "score": 500
         },
         {

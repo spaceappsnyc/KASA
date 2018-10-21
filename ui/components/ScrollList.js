@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Badge } from 'react-native-elements';
-import { Text, View, TouchableOpacity, StyleSheet, ScrollView, Modal, TouchableHighlight } from 'react-native'
+import { Text, View, TouchableOpacity, StyleSheet, ScrollView, Modal, TouchableHighlight, Button } from 'react-native'
 import data from '../assets/camp_info.json';
 import PopupDialog from 'react-native-popup-dialog';
    
@@ -12,7 +12,7 @@ class ScrollList extends Component {
 
    handleCampChoice = (item) => {
       this.setModalVisible(true);
-      this.setState(data[item]);
+      this.setState({data: data[item]});
    }
 
    setModalVisible(visible) {
@@ -37,13 +37,21 @@ class ScrollList extends Component {
             <View style={{
               width: 300,
               height: 300}}>
+              <Text>
+                {
+                  Object.keys(this.state.data).map((item) => {
+                    const upper = item.charAt(0).toUpperCase() + item.substr(1);
+                    return upper + ': ' + this.state.data[item] + '\n';
+                  })
+                }
+              </Text>
 
-              <TouchableHighlight
+              <Button 
+                title="Hide Modal"
                 onPress={() => {
                   this.setModalVisible(!this.state.modalVisible);
                 }}>
-                <Text>Hide Modal</Text>
-              </TouchableHighlight>
+                </Button>
             </View>
             </View>
             </Modal>
