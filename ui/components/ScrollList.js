@@ -1,16 +1,18 @@
 import React, { Component } from 'react'
 import { Badge } from 'react-native-elements';
-import { Text, View, TouchableOpacity, StyleSheet, ScrollView, Modal } from 'react-native'
+import { Text, View, TouchableOpacity, StyleSheet, ScrollView, Modal, TouchableHighlight } from 'react-native'
 import data from '../assets/camp_info.json';
 import PopupDialog from 'react-native-popup-dialog';
    
 class ScrollList extends Component {
   state = {
-    isModalOpen: false
+    modalVisible: false,
+    data: {}
   }
 
    handleCampChoice = (item) => {
-      this.setModalVisible(!this.state.modalVisible);
+      this.setModalVisible(true);
+      this.setState(data[item]);
    }
 
    setModalVisible(visible) {
@@ -18,9 +20,33 @@ class ScrollList extends Component {
   }
 
    render() {
+     console.log(this.state.data);
       return (
+        <View>
         <ScrollView>
-         <View>
+          <Modal
+          animationType="slide"
+          transparent={false}
+          visible={this.state.modalVisible}
+          onRequestClose={() => { Alert.alert('Modal has been closed.'); }}>
+          <View style={{
+            flex: 1,
+            flexDirection: 'column',
+            justifyContent: 'center',
+            alignItems: 'center'}}>
+            <View style={{
+              width: 300,
+              height: 300}}>
+
+              <TouchableHighlight
+                onPress={() => {
+                  this.setModalVisible(!this.state.modalVisible);
+                }}>
+                <Text>Hide Modal</Text>
+              </TouchableHighlight>
+            </View>
+            </View>
+            </Modal>
             {
                this.props.camps.map((item, index) => (
                   <TouchableOpacity
@@ -36,8 +62,8 @@ class ScrollList extends Component {
                   </TouchableOpacity>
                ))
             }
-         </View>
          </ScrollView>
+         </View>
       )
    }
 }
@@ -58,5 +84,6 @@ const styles = StyleSheet.create ({
    badge: {
     backgroundColor: 'lightgreen',
     alignContent: 'flex-end',
-   }
+   },
+
 })
