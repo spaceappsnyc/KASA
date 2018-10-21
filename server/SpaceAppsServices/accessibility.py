@@ -24,3 +24,27 @@ def getDistanceFromTopCities(userCoordinates):
         
     with open('./resources/top_100_cities_with_distance.json', 'w') as fp:
         json.dump(topCities, fp)
+
+def readNigeriaCampData():
+    with open("./resources/nigeria_camps.json") as f:
+        data = json.load(f)
+    return data
+
+def deliverNigeriaCampData():
+    camps = readNigeriaCampData()
+    resultCamps = {}
+    for camp in camps:
+        resultCamps[camp["siteName"]] = {
+            "siteName": camp["siteName"],
+            "potableWater": camp["isDrinkingWaterPotable"],
+            "siteType": camp["siteType"],
+            "healthSupport": camp["healthSupport"],
+            "foodSupport": camp["foodSupport"],
+            "percentOfFunctioningToilets": camp["percentOfFunctioningToilets"],
+            "frequencyOfFoodDistribution": camp["frequencyOfFoodDistribution"],
+            "accessToIncomeGeneratingActivities": camp["accessToIncomeGeneratingActivities"]
+        }
+    with open('./resources/camp_info.json', 'w') as fp:
+        json.dump(resultCamps, fp)
+
+deliverNigeriaCampData()

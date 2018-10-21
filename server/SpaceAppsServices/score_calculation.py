@@ -181,13 +181,14 @@ def score_calculation(userCoordinates):
         coords = {"longitude": longitude, "latitude": latitude}
         overallconditionOfMostOfTheToiletsScore = conditionOfMostOfTheToiletsScore * 100
         overallaccessToEducationServicesScore = accessToEducationServicesScore * 100
-        score = unScore*.5 + overallSupportScore*.5 + overallFormalScore*.5 + overallsiteTypeScore*.5 + overallmostCommonShelterTypeScore*.5 + overallnaturalHazardScore*.5 + overallsiteMainWaterSourceLocationScore*.5 + overallavgAmountOfWaterAvailableDayPerPersonScore*.5 + overallportableDrinkingWaterScore*.5 + overallcomplaintsAboutDrinkingWaterQualityScore*.5 + overallconditionOfMostOfTheToiletsScore*.5 + overallgarbageAndSolidWasteProblemScore*.5 + overallavailabilityOfHandwashingStationScore*.5 + overallSupporoverallevidenceOfOpenDefecationScoretScore*.5 + overallevidenceOfOpenDefecationScore*.5 + overallaccessToFoodScore*.5 + overallscreeningForMalnutritionScore*.5 + overallregularAccessToMedicineScore*.5 + overallaccessToHealthFacilityScore*.5 + overallaccessToEducationServicesScore*.5 + overallaccessToIncomeGeneratingActivitiesScore*.5
+        score = unScore*.5 + overallSupportScore*.5 + overallFormalScore*.5 + overallsiteTypeScore*.5 + overallmostCommonShelterTypeScore*.5 + overallnaturalHazardScore*.5 + overallsiteMainWaterSourceLocationScore*.5 + overallavgAmountOfWaterAvailableDayPerPersonScore*.5 + overallportableDrinkingWaterScore*.5 + overallcomplaintsAboutDrinkingWaterQualityScore*.5 + overallconditionOfMostOfTheToiletsScore*.5 + overallgarbageAndSolidWasteProblemScore*.5 + overallavailabilityOfHandwashingStationScore*.5 + overallevidenceOfOpenDefecationScore*.5 + overallaccessToFoodScore*.5 + overallscreeningForMalnutritionScore*.5 + overallregularAccessToMedicineScore*.5 + overallaccessToHealthFacilityScore*.5 + overallaccessToEducationServicesScore*.5 + overallaccessToIncomeGeneratingActivitiesScore*.5
         scoreDict = {"idpCamp": nearbyIdpCamp, "score": score,  "coords": coords }
-        print(scoreDict)
         supportScore = 0
         overallScoreList.append(scoreDict)
 
-    print(overallScoreList)
+    overallScoreList = sorted(overallScoreList, key=lambda k: k['score'], reverse=True)
+    with open('./resources/score_list.json', 'w') as fp:
+        json.dump(overallScoreList, fp)
     return json.dumps(overallScoreList)
 
 score_calculation("7.247324,6.010124")

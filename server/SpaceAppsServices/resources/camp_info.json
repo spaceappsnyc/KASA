@@ -1,0 +1,2832 @@
+{
+	"1000 CAMP DIKWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 35,
+		"potableWater": "Yes",
+		"siteName": "1000 CAMP DIKWA",
+		"siteType": "Camp"
+	},
+	"20 HOUSING UNIT": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 95,
+		"potableWater": "Yes",
+		"siteName": "20 HOUSING UNIT",
+		"siteType": "Collective Settlement Centre"
+	},
+	"250 HOUSING ESTATE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "250 HOUSING ESTATE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"40 HOUSE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "40 HOUSE CAMP",
+		"siteType": "Camp"
+	},
+	"400 HOUSING ESATE GUBIO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Twice a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 350,
+		"potableWater": "Yes",
+		"siteName": "400 HOUSING ESATE GUBIO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ABARI Y.B.C": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 21,
+		"potableWater": "Yes",
+		"siteName": "ABARI Y.B.C",
+		"siteType": "Camp"
+	},
+	"ABATCHARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "ABATCHARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ABBA KURA HASSAN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 19,
+		"potableWater": "Yes",
+		"siteName": "ABBA KURA HASSAN",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ABDULLAHI PRI SCH": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "No",
+		"siteName": "ABDULLAHI PRI SCH",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ABORI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 157,
+		"potableWater": "Yes",
+		"siteName": "ABORI",
+		"siteType": "Camp"
+	},
+	"ABULAM": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "ABULAM",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ADAM KOLO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "ADAM KOLO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AGRIC IDP CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 78,
+		"potableWater": "Yes",
+		"siteName": "AGRIC IDP CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AISHA BUHARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 36,
+		"potableWater": "Yes",
+		"siteName": "AISHA BUHARI CAMP",
+		"siteType": "Camp"
+	},
+	"AJARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 64,
+		"potableWater": "Yes",
+		"siteName": "AJARI CAMP",
+		"siteType": "Camp"
+	},
+	"AJIGAB CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "AJIGAB CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AJIJARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "AJIJARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AJIRI  I": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "AJIRI  I",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AJIRI II": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "AJIRI II",
+		"siteType": "Camp"
+	},
+	"AJIYARI 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "AJIYARI 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"AL-YAKUB": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 45,
+		"potableWater": "Yes",
+		"siteName": "AL-YAKUB",
+		"siteType": "Camp"
+	},
+	"ALHAJI ADAM HOUSE 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI ADAM HOUSE 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALHAJI ADAMS HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI ADAMS HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALHAJI BASHIR CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 60,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI BASHIR CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALHAJI BASHIR LIMAN HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI BASHIR LIMAN HOUSE",
+		"siteType": "Camp"
+	},
+	"ALHAJI MUSTAPHA BABAGANA HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 11,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI MUSTAPHA BABAGANA HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALHAJI TAR 1": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 7,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI TAR 1",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALHAJI TAR 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "ALHAJI TAR 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALI DAWARI I CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "ALI DAWARI I CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALI DAWARI II": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "ALI DAWARI II",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ALLAMIN DAGASH GARAGE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "ALLAMIN DAGASH GARAGE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ANGUWAN MUMUYAWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "ANGUWAN MUMUYAWA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ANGUWAN SOJIJI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "ANGUWAN SOJIJI CAMP",
+		"siteType": "Camp"
+	},
+	"ANGWAN KARA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 18,
+		"potableWater": "Yes",
+		"siteName": "ANGWAN KARA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ANNUR CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "ANNUR CAMP",
+		"siteType": "Camp"
+	},
+	"ANSAR CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "ANSAR CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ARABIC VILLAGE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 788,
+		"potableWater": "Yes",
+		"siteName": "ARABIC VILLAGE CAMP",
+		"siteType": "Camp"
+	},
+	"AREA MARKET BULABULIN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "AREA MARKET BULABULIN",
+		"siteType": "Camp"
+	},
+	"AWULAM CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "AWULAM CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BAJAURO CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 20,
+		"potableWater": "Yes",
+		"siteName": "BAJAURO CAMP",
+		"siteType": "Camp"
+	},
+	"BAKASI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1803,
+		"potableWater": "Yes",
+		"siteName": "BAKASI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BAKASSI MUNA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 46,
+		"potableWater": "Yes",
+		"siteName": "BAKASSI MUNA",
+		"siteType": "Camp"
+	},
+	"BAKIN KOGI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "BAKIN KOGI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BAKIN LAMBU": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "BAKIN LAMBU",
+		"siteType": "Camp"
+	},
+	"BAKIN TRANSFORMER": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Unknown",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "BAKIN TRANSFORMER",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BAKKASI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 65,
+		"potableWater": "Yes",
+		"siteName": "BAKKASI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BAKURA AHMED HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "BAKURA AHMED HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BALE GALTIMARI PRI SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "BALE GALTIMARI PRI SCHOOL",
+		"siteType": "Camp"
+	},
+	"BAMODU HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "BAMODU HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BANKI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 83,
+		"potableWater": "Yes",
+		"siteName": "BANKI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BARE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 25,
+		"potableWater": "Yes",
+		"siteName": "BARE CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BEHIND SECRETARIAT": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 72,
+		"potableWater": "No",
+		"siteName": "BEHIND SECRETARIAT",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BENI FARIN GIDA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "BENI FARIN GIDA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BIAFRA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "BIAFRA CAMP",
+		"siteType": "Camp"
+	},
+	"BOARDING PRIMARY SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 210,
+		"potableWater": "Yes",
+		"siteName": "BOARDING PRIMARY SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BOARDING SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 295,
+		"potableWater": "Yes",
+		"siteName": "BOARDING SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BOLORIN BURIN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 18,
+		"potableWater": "Yes",
+		"siteName": "BOLORIN BURIN",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BUKAR ABBA HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "BUKAR ABBA HOUSE",
+		"siteType": "Camp"
+	},
+	"BUKARTI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "BUKARTI CAMP",
+		"siteType": "Camp"
+	},
+	"BULABULIN GAURA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "BULABULIN GAURA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BULABULIN IDP CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 34,
+		"potableWater": "Yes",
+		"siteName": "BULABULIN IDP CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BULAMATARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "BULAMATARI CAMP",
+		"siteType": "Camp"
+	},
+	"BULLET QUARTERS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "BULLET QUARTERS CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"BURRA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "No",
+		"siteName": "BURRA",
+		"siteType": "Camp"
+	},
+	"BUSUGU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "BUSUGU CAMP",
+		"siteType": "Camp"
+	},
+	"CAMP 2 (WEGE)": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 18,
+		"potableWater": "Yes",
+		"siteName": "CAMP 2 (WEGE)",
+		"siteType": "Camp"
+	},
+	"CAMPO CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "CAMPO CAMP",
+		"siteType": "Camp"
+	},
+	"CENTRAL PRIMARY SCHOOL DAMBOA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 136,
+		"potableWater": "Yes",
+		"siteName": "CENTRAL PRIMARY SCHOOL DAMBOA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"CHALLUMURI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "CHALLUMURI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"CHEKAMIDERI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "No",
+		"siteName": "CHEKAMIDERI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"CUSTOM HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 363,
+		"potableWater": "Yes",
+		"siteName": "CUSTOM HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"CUSTOM HOUSE 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 70,
+		"potableWater": "Yes",
+		"siteName": "CUSTOM HOUSE 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DALA STANDARD": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "DALA STANDARD",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DALORIMA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "DALORIMA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DALWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "DALWA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DAMARA ARRIVAL CENTRE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "DAMARA ARRIVAL CENTRE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DARUL QURAN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "DARUL QURAN",
+		"siteType": "Camp"
+	},
+	"DAWARE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "DAWARE CAMP",
+		"siteType": "Camp"
+	},
+	"DCC SHUWARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 25,
+		"potableWater": "Yes",
+		"siteName": "DCC SHUWARI CAMP",
+		"siteType": "Camp"
+	},
+	"DOGONGIDA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "No",
+		"siteName": "DOGONGIDA CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DOKKITILLA WUROCHEKKE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "DOKKITILLA WUROCHEKKE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DONZUMGA PRIMARY SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "DONZUMGA PRIMARY SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"DUJIMA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "DUJIMA CAMP",
+		"siteType": "Camp"
+	},
+	"EBENEZER PRIMARY SCHOOL WUKARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "EBENEZER PRIMARY SCHOOL WUKARI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"EL MISKIN TRANSIT CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "EL MISKIN TRANSIT CAMP",
+		"siteType": "Transitional Centre"
+	},
+	"EL-MISKIN CENTER": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "EL-MISKIN CENTER",
+		"siteType": "Camp"
+	},
+	"ESTATE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 38,
+		"potableWater": "Yes",
+		"siteName": "ESTATE CAMP",
+		"siteType": "Camp"
+	},
+	"EYN CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 44,
+		"potableWater": "Yes",
+		"siteName": "EYN CAMP",
+		"siteType": "Camp"
+	},
+	"EYN CHURCH VINIKILANG": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "EYN CHURCH VINIKILANG",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FANNAMRI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "FANNAMRI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FARIA BUZU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "No",
+		"siteName": "FARIA BUZU CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FARIA GIDAN BLOCK CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 63,
+		"potableWater": "Yes",
+		"siteName": "FARIA GIDAN BLOCK CAMP",
+		"siteType": "Camp"
+	},
+	"FARM CENTRE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 486,
+		"potableWater": "Yes",
+		"siteName": "FARM CENTRE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FEDERAL LOW COST CHEZCOAN CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 7,
+		"potableWater": "Yes",
+		"siteName": "FEDERAL LOW COST CHEZCOAN CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FEDERAL TRAINING CENTER CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 417,
+		"potableWater": "Yes",
+		"siteName": "FEDERAL TRAINING CENTER CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FILLIN BABA MAKINTA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "FILLIN BABA MAKINTA",
+		"siteType": "Camp"
+	},
+	"FUFORE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 75,
+		"potableWater": "Yes",
+		"siteName": "FUFORE CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FULATARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "FULATARI",
+		"siteType": "Camp"
+	},
+	"FULATARI 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "FULATARI 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FULATARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 78,
+		"potableWater": "Yes",
+		"siteName": "FULATARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FULATARI CAMP JERE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "FULATARI CAMP JERE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"FULATARI FARIN RUWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 15,
+		"potableWater": "Yes",
+		"siteName": "FULATARI FARIN RUWA",
+		"siteType": "Camp"
+	},
+	"FUNAI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 16,
+		"potableWater": "No",
+		"siteName": "FUNAI",
+		"siteType": "Camp"
+	},
+	"GADAMAYO BANGO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "GADAMAYO BANGO",
+		"siteType": "Camp"
+	},
+	"GANA ALI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 250,
+		"potableWater": "Yes",
+		"siteName": "GANA ALI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GARBA BUZU QRT": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 27,
+		"potableWater": "Yes",
+		"siteName": "GARBA BUZU QRT",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GARDENER LOW COST": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Every 2 weeks",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 40,
+		"potableWater": "Yes",
+		"siteName": "GARDENER LOW COST",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GASARWA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 52,
+		"potableWater": "Yes",
+		"siteName": "GASARWA CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GASARWA PRI SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 52,
+		"potableWater": "Yes",
+		"siteName": "GASARWA PRI SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GENERAL HOSPITAL DAMBOA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 209,
+		"potableWater": "Yes",
+		"siteName": "GENERAL HOSPITAL DAMBOA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GENERAL HOSPITAL RANN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 192,
+		"potableWater": "Yes",
+		"siteName": "GENERAL HOSPITAL RANN",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GGSS GAJIGANNA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "No",
+		"siteName": "GGSS GAJIGANNA CAMP",
+		"siteType": "Camp"
+	},
+	"GGSS QUARTERS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "GGSS QUARTERS",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GIDAN BREDI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "GIDAN BREDI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GIDAN MANDARA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "GIDAN MANDARA",
+		"siteType": "Camp"
+	},
+	"GIDAN MANGORO NEW": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "GIDAN MANGORO NEW",
+		"siteType": "Camp"
+	},
+	"GIDAN MONGORO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "GIDAN MONGORO",
+		"siteType": "Camp"
+	},
+	"GIDAN TALATIN": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 3,
+		"potableWater": "Yes",
+		"siteName": "GIDAN TALATIN",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GIDAN YAN BAMA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "GIDAN YAN BAMA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GOMBOLE SITE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "GOMBOLE SITE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GOMBOLE SITE 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "GOMBOLE SITE 2",
+		"siteType": "Camp"
+	},
+	"GONGULONG CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 80,
+		"potableWater": "Yes",
+		"siteName": "GONGULONG CAMP",
+		"siteType": "Camp"
+	},
+	"GONI KYARIMI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "GONI KYARIMI",
+		"siteType": "Camp"
+	},
+	"GOVERNMENT COLLEGE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "GOVERNMENT COLLEGE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GOVERNMENT DAY SECONDARY SCHOOL (GDSS)": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 95,
+		"potableWater": "Yes",
+		"siteName": "GOVERNMENT DAY SECONDARY SCHOOL (GDSS)",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GOVERNMENT GIRLS SECONDARY SCHOOL (GGSS)": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Twice a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 150,
+		"potableWater": "No",
+		"siteName": "GOVERNMENT GIRLS SECONDARY SCHOOL (GGSS)",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GOVERNMENT GIRLS' SECONDARY SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 140,
+		"potableWater": "Yes",
+		"siteName": "GOVERNMENT GIRLS' SECONDARY SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GREMA MOHAMMED COMPANY": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "GREMA MOHAMMED COMPANY",
+		"siteType": "Camp"
+	},
+	"GSS BENISHEIKH": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 64,
+		"potableWater": "Yes",
+		"siteName": "GSS BENISHEIKH",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GSS CAMP GWOZA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 146,
+		"potableWater": "Yes",
+		"siteName": "GSS CAMP GWOZA",
+		"siteType": "Camp"
+	},
+	"GSSSS CAMP BAMA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 614,
+		"potableWater": "Yes",
+		"siteName": "GSSSS CAMP BAMA",
+		"siteType": "Camp"
+	},
+	"GSSSS MONGUNO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 72,
+		"potableWater": "Yes",
+		"siteName": "GSSSS MONGUNO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GUJIBABU SABON GARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "No",
+		"siteName": "GUJIBABU SABON GARI",
+		"siteType": "Camp"
+	},
+	"GULLUM CLINIC CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 35,
+		"potableWater": "No",
+		"siteName": "GULLUM CLINIC CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"GWOZA WAKANE PRI. SCH.": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 50,
+		"potableWater": "Yes",
+		"siteName": "GWOZA WAKANE PRI. SCH.",
+		"siteType": "Collective Settlement Centre"
+	},
+	"HAUSARI PRIMARY SCHOOL DAMBOA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "HAUSARI PRIMARY SCHOOL DAMBOA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"HULLERE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "No",
+		"siteName": "HULLERE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"HURI VILLAGE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 36,
+		"potableWater": "Yes",
+		"siteName": "HURI VILLAGE CAMP",
+		"siteType": "Camp"
+	},
+	"INTERNATIONAL SCHOOL CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 933,
+		"potableWater": "Yes",
+		"siteName": "INTERNATIONAL SCHOOL CAMP",
+		"siteType": "Camp"
+	},
+	"ISLAMIYA PRI. SCH.": {
+		"accessToIncomeGeneratingActivities": "No",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "ISLAMIYA PRI. SCH.",
+		"siteType": "Camp"
+	},
+	"JAFRA SHAGARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "JAFRA SHAGARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"JAURO  GBADI PRIMARY SCHOOL CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "JAURO  GBADI PRIMARY SCHOOL CAMP",
+		"siteType": "Camp"
+	},
+	"JIGALTA LAWANTI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "JIGALTA LAWANTI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KADUWA I": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "KADUWA I",
+		"siteType": "Camp"
+	},
+	"KADUWA II": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "KADUWA II",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KALARI ABULE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 26,
+		"potableWater": "Yes",
+		"siteName": "KALARI ABULE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KAMCHIJIN PRAYER GROUND": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 135,
+		"potableWater": "Yes",
+		"siteName": "KAMCHIJIN PRAYER GROUND",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KANGARMAKA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "KANGARMAKA CAMP",
+		"siteType": "Camp"
+	},
+	"KARANTINA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "KARANTINA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KARO KASA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "KARO KASA",
+		"siteType": "Camp"
+	},
+	"KASAISA VILLAGE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 38,
+		"potableWater": "Yes",
+		"siteName": "KASAISA VILLAGE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KASUWA SHANU GIDAN KIFI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "KASUWA SHANU GIDAN KIFI",
+		"siteType": "Camp"
+	},
+	"KATARKO 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "KATARKO 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KAWAR MAILA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "KAWAR MAILA",
+		"siteType": "Camp"
+	},
+	"KEKENO NON GOVERNMENT IDP CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 5,
+		"potableWater": "Yes",
+		"siteName": "KEKENO NON GOVERNMENT IDP CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KESSA KURA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 80,
+		"potableWater": "Yes",
+		"siteName": "KESSA KURA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KHADDAMARI QTRS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 24,
+		"potableWater": "Yes",
+		"siteName": "KHADDAMARI QTRS",
+		"siteType": "Camp"
+	},
+	"KILAGARU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 491,
+		"potableWater": "Yes",
+		"siteName": "KILAGARU CAMP",
+		"siteType": "Camp"
+	},
+	"KILBAJE EXTENSION": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 59,
+		"potableWater": "Yes",
+		"siteName": "KILBAJE EXTENSION",
+		"siteType": "Camp"
+	},
+	"KIRENUWA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "KIRENUWA CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KORI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 21,
+		"potableWater": "Yes",
+		"siteName": "KORI CAMP",
+		"siteType": "Camp"
+	},
+	"KORSO BASHIR CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 7,
+		"potableWater": "Yes",
+		"siteName": "KORSO BASHIR CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KUKARETA PRI SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 48,
+		"potableWater": "Yes",
+		"siteName": "KUKARETA PRI SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KULAGARU": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 34,
+		"potableWater": "Yes",
+		"siteName": "KULAGARU",
+		"siteType": "Camp"
+	},
+	"KURU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 15,
+		"potableWater": "Yes",
+		"siteName": "KURU CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KUSHERI BULAMARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "KUSHERI BULAMARI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"KUYA PRIMARY SCHOOL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 415,
+		"potableWater": "Yes",
+		"siteName": "KUYA PRIMARY SCHOOL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"LAWAN KARTA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 23,
+		"potableWater": "Yes",
+		"siteName": "LAWAN KARTA CAMP",
+		"siteType": "Camp"
+	},
+	"LAYIN ELKA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "LAYIN ELKA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"LAYIN KAWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "LAYIN KAWA",
+		"siteType": "Camp"
+	},
+	"LAYIN TSAMIYA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "LAYIN TSAMIYA",
+		"siteType": "Camp"
+	},
+	"LG QUARTERS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 7,
+		"potableWater": "No",
+		"siteName": "LG QUARTERS",
+		"siteType": "Collective Settlement Centre"
+	},
+	"LIVING FAITH CHURCH": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "LIVING FAITH CHURCH",
+		"siteType": "Collective Settlement Centre"
+	},
+	"LOW COST   SDP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "LOW COST   SDP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"LOW COST CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "LOW COST CAMP",
+		"siteType": "Camp"
+	},
+	"LOWCOST QUARTERS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "LOWCOST QUARTERS",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MADINATU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 35,
+		"potableWater": "Yes",
+		"siteName": "MADINATU CAMP",
+		"siteType": "Camp"
+	},
+	"MAGISTRATE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 24,
+		"potableWater": "Yes",
+		"siteName": "MAGISTRATE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MALA SHERIFF CONSTRUCTION COMPANY": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "MALA SHERIFF CONSTRUCTION COMPANY",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MALAYI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 15,
+		"potableWater": "Yes",
+		"siteName": "MALAYI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MALKOHI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 86,
+		"potableWater": "Yes",
+		"siteName": "MALKOHI CAMP",
+		"siteType": "Camp"
+	},
+	"MALKOHI VILLAGE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 120,
+		"potableWater": "Yes",
+		"siteName": "MALKOHI VILLAGE",
+		"siteType": "Camp"
+	},
+	"MARTE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "MARTE CAMP",
+		"siteType": "Camp"
+	},
+	"MASARMARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 30,
+		"potableWater": "Yes",
+		"siteName": "MASARMARI",
+		"siteType": "Camp"
+	},
+	"MASHAMARI KULUYE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 38,
+		"potableWater": "Yes",
+		"siteName": "MASHAMARI KULUYE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MAYO FARRANG": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "MAYO FARRANG",
+		"siteType": "Camp"
+	},
+	"MAYO SANGANARE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "MAYO SANGANARE",
+		"siteType": "Camp"
+	},
+	"MECO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "No",
+		"siteName": "MECO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MINISTRY OF WORKS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "MINISTRY OF WORKS CAMP",
+		"siteType": "Camp"
+	},
+	"MOBILE CLINIC": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "MOBILE CLINIC",
+		"siteType": "Camp"
+	},
+	"MOGCOLIS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 56,
+		"potableWater": "Yes",
+		"siteName": "MOGCOLIS CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MOH'D GOMBE FARM": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 24,
+		"potableWater": "Yes",
+		"siteName": "MOH'D GOMBE FARM",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MOHAMMED KYARIMI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 64,
+		"potableWater": "Yes",
+		"siteName": "MOHAMMED KYARIMI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MOTOR PARK IDP CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 100,
+		"potableWater": "Yes",
+		"siteName": "MOTOR PARK IDP CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUBI BURNT BRICKS FACTORY": {
+		"accessToIncomeGeneratingActivities": "No",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "MUBI BURNT BRICKS FACTORY",
+		"siteType": "Transitional Centre"
+	},
+	"MUNA DA'ALTI 1A": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 16,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA'ALTI 1A",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA DA'ALTI 1B": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA'ALTI 1B",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA DA'ALTI 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA'ALTI 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA DA'ALTI 2A": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 95,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA'ALTI 2A",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA DA'ALTI 3": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA'ALTI 3",
+		"siteType": "Camp"
+	},
+	"MUNA DA`ALTI 2B": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 16,
+		"potableWater": "Yes",
+		"siteName": "MUNA DA`ALTI 2B",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA ETHIOPIA GULUMBA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 30,
+		"potableWater": "Yes",
+		"siteName": "MUNA ETHIOPIA GULUMBA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA GARAGE EL BADAWE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 505,
+		"potableWater": "Yes",
+		"siteName": "MUNA GARAGE EL BADAWE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA KORI BULA YALAYE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "MUNA KORI BULA YALAYE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA MALLAM KORI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 70,
+		"potableWater": "Yes",
+		"siteName": "MUNA MALLAM KORI",
+		"siteType": "Camp"
+	},
+	"MUNA MOFORO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 62,
+		"potableWater": "Yes",
+		"siteName": "MUNA MOFORO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUNA PRIMARY": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "MUNA PRIMARY",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MURTAI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 50,
+		"potableWater": "No",
+		"siteName": "MURTAI CAMP",
+		"siteType": "Camp"
+	},
+	"MUSARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 40,
+		"potableWater": "Yes",
+		"siteName": "MUSARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"MUSUNE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 21,
+		"potableWater": "Yes",
+		"siteName": "MUSUNE",
+		"siteType": "Camp"
+	},
+	"N.R.C CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 3,
+		"potableWater": "Yes",
+		"siteName": "N.R.C CAMP",
+		"siteType": "Camp"
+	},
+	"NANA VILLA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 29,
+		"potableWater": "Yes",
+		"siteName": "NANA VILLA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"NGUD  KHADDAMARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "NGUD  KHADDAMARI",
+		"siteType": "Camp"
+	},
+	"NGURNO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 130,
+		"potableWater": "Yes",
+		"siteName": "NGURNO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"NGURO YALAYE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "NGURO YALAYE",
+		"siteType": "Camp"
+	},
+	"NRC 1 \u0026 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 109,
+		"potableWater": "Yes",
+		"siteName": "NRC 1 \u0026 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"NRC CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 44,
+		"potableWater": "Yes",
+		"siteName": "NRC CAMP",
+		"siteType": "Camp"
+	},
+	"NYSC CAMP BORNO": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 102,
+		"potableWater": "Yes",
+		"siteName": "NYSC CAMP BORNO",
+		"siteType": "Collective Settlement Centre"
+	},
+	"OLD CONCORD": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 25,
+		"potableWater": "No",
+		"siteName": "OLD CONCORD",
+		"siteType": "Collective Settlement Centre"
+	},
+	"OLD HOSPITAL CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 20,
+		"potableWater": "Yes",
+		"siteName": "OLD HOSPITAL CAMP",
+		"siteType": "Camp"
+	},
+	"OLD INEC CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "No",
+		"siteName": "OLD INEC CAMP",
+		"siteType": "Camp"
+	},
+	"OLD MAIDUGURI POLICE STATION CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 11,
+		"potableWater": "Yes",
+		"siteName": "OLD MAIDUGURI POLICE STATION CAMP",
+		"siteType": "Camp"
+	},
+	"OLD SECETARIAT CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 21,
+		"potableWater": "Yes",
+		"siteName": "OLD SECETARIAT CAMP",
+		"siteType": "Camp"
+	},
+	"ORJI KALU HOUSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "ORJI KALU HOUSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"PAMPAS STREET CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 3,
+		"potableWater": "Yes",
+		"siteName": "PAMPAS STREET CAMP",
+		"siteType": "Camp"
+	},
+	"POLICE BARRACK": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 13,
+		"potableWater": "Yes",
+		"siteName": "POLICE BARRACK",
+		"siteType": "Camp"
+	},
+	"POLICE DOKI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "POLICE DOKI",
+		"siteType": "Camp"
+	},
+	"POST OFFICE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "No",
+		"siteName": "POST OFFICE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"QUARTERS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 16,
+		"potableWater": "Yes",
+		"siteName": "QUARTERS CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"RAILWAY TERMINUS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "RAILWAY TERMINUS CAMP",
+		"siteType": "Camp"
+	},
+	"REAL FORM CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 3,
+		"potableWater": "Yes",
+		"siteName": "REAL FORM CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"RED-BRICKS (IDP) CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 15,
+		"potableWater": "No",
+		"siteName": "RED-BRICKS (IDP) CAMP",
+		"siteType": "Camp"
+	},
+	"RINDIBIN CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "RINDIBIN CAMP",
+		"siteType": "Camp"
+	},
+	"SABON GARI 2": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "SABON GARI 2",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SABON KAURA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "SABON KAURA CAMP",
+		"siteType": "Camp"
+	},
+	"SABON PEGGI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "SABON PEGGI",
+		"siteType": "Camp"
+	},
+	"SABON PEGI NGURORE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "SABON PEGI NGURORE",
+		"siteType": "Camp"
+	},
+	"SABONGARI BUZU CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 15,
+		"potableWater": "Yes",
+		"siteName": "SABONGARI BUZU CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SANAWUYA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "SANAWUYA",
+		"siteType": "Camp"
+	},
+	"SANGAYA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 110,
+		"potableWater": "Yes",
+		"siteName": "SANGAYA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SEGERE DUTSE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "SEGERE DUTSE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SHAGARI QUARTERS CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "SHAGARI QUARTERS CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SHEHU MUSTA II": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 24,
+		"potableWater": "Yes",
+		"siteName": "SHEHU MUSTA II",
+		"siteType": "Camp"
+	},
+	"SHEHURI MODU KASA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 163,
+		"potableWater": "Yes",
+		"siteName": "SHEHURI MODU KASA CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SHEWARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 34,
+		"potableWater": "Yes",
+		"siteName": "SHEWARI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SHIEK SHERIFF TIJJANI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "SHIEK SHERIFF TIJJANI CAMP",
+		"siteType": "Camp"
+	},
+	"SHUWARI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "SHUWARI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SHUWARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "SHUWARI CAMP",
+		"siteType": "Camp"
+	},
+	"SHUWARI GAYA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "SHUWARI GAYA",
+		"siteType": "Camp"
+	},
+	"SSS QUARTERS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 16,
+		"potableWater": "Yes",
+		"siteName": "SSS QUARTERS",
+		"siteType": "Camp"
+	},
+	"ST THERESAS CATHEDRAL": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 47,
+		"potableWater": "Yes",
+		"siteName": "ST THERESAS CATHEDRAL",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ST. HILLARY": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 9,
+		"potableWater": "Yes",
+		"siteName": "ST. HILLARY",
+		"siteType": "Collective Settlement Centre"
+	},
+	"STADIUM CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 110,
+		"potableWater": "Yes",
+		"siteName": "STADIUM CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"SULEIMANTI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 4,
+		"potableWater": "Yes",
+		"siteName": "SULEIMANTI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"TEACHERS VILLAGE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 150,
+		"potableWater": "Yes",
+		"siteName": "TEACHERS VILLAGE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"TEMPORARY KARSHEN KWALTA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 1,
+		"potableWater": "Yes",
+		"siteName": "TEMPORARY KARSHEN KWALTA CAMP",
+		"siteType": "Camp"
+	},
+	"TEN HOUSING QUARTERS": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "TEN HOUSING QUARTERS",
+		"siteType": "Camp"
+	},
+	"TUMDIRI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "TUMDIRI",
+		"siteType": "Camp"
+	},
+	"TWENTY HOUSING ESTATE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 14,
+		"potableWater": "Yes",
+		"siteName": "TWENTY HOUSING ESTATE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"UMARARI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 12,
+		"potableWater": "Yes",
+		"siteName": "UMARARI CAMP",
+		"siteType": "Camp"
+	},
+	"UMBAZAH ROCK SIDE CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 65,
+		"potableWater": "Yes",
+		"siteName": "UMBAZAH ROCK SIDE CAMP",
+		"siteType": "Camp"
+	},
+	"UNGUWAR KWARAWA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 3,
+		"potableWater": "Yes",
+		"siteName": "UNGUWAR KWARAWA",
+		"siteType": "Camp"
+	},
+	"UNGWAN ABUJA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 28,
+		"potableWater": "Yes",
+		"siteName": "UNGWAN ABUJA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"UNI GUEST": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "UNI GUEST",
+		"siteType": "Collective Settlement Centre"
+	},
+	"UNITY CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 40,
+		"potableWater": "Yes",
+		"siteName": "UNITY CAMP",
+		"siteType": "Camp"
+	},
+	"UPPER COURT": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 28,
+		"potableWater": "Yes",
+		"siteName": "UPPER COURT",
+		"siteType": "Camp"
+	},
+	"V.I.O CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "V.I.O CAMP",
+		"siteType": "Camp"
+	},
+	"VERTINARY": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 110,
+		"potableWater": "Yes",
+		"siteName": "VERTINARY",
+		"siteType": "Collective Settlement Centre"
+	},
+	"VERTINARY ": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Twice a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "VERTINARY ",
+		"siteType": "Collective Settlement Centre"
+	},
+	"VOCATIONAL TRAINING CENTRE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 23,
+		"potableWater": "No",
+		"siteName": "VOCATIONAL TRAINING CENTRE",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WADAI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "WADAI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WADE -WADE LAYIN BOLA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 10,
+		"potableWater": "Yes",
+		"siteName": "WADE -WADE LAYIN BOLA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WAKSHAMA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 8,
+		"potableWater": "Yes",
+		"siteName": "WAKSHAMA",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WATER BOARD": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 537,
+		"potableWater": "Yes",
+		"siteName": "WATER BOARD",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WEGE ARRIVAL CENTRE": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "WEGE ARRIVAL CENTRE",
+		"siteType": "Camp"
+	},
+	"WEGE EXTENSION": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a week",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 13,
+		"potableWater": "Yes",
+		"siteName": "WEGE EXTENSION",
+		"siteType": "Camp"
+	},
+	"WURO AHI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 6,
+		"potableWater": "Yes",
+		"siteName": "WURO AHI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"WURO-YANKA": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "No",
+		"siteName": "WURO-YANKA",
+		"siteType": "Camp"
+	},
+	"YAJIWA CAMP KUSHERI": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 24,
+		"potableWater": "Yes",
+		"siteName": "YAJIWA CAMP KUSHERI",
+		"siteType": "Collective Settlement Centre"
+	},
+	"YAN ITACE PRISON": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Irregular",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 2,
+		"potableWater": "Yes",
+		"siteName": "YAN ITACE PRISON",
+		"siteType": "Camp"
+	},
+	"YAWURI CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "No",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "Yes",
+		"siteName": "YAWURI CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ZADAWA CAMP": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "No",
+		"frequencyOfFoodDistribution": "Never",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 0,
+		"potableWater": "No",
+		"siteName": "ZADAWA CAMP",
+		"siteType": "Collective Settlement Centre"
+	},
+	"ZONAL EDUCATION CENTER CAMP, BIU": {
+		"accessToIncomeGeneratingActivities": "Yes",
+		"foodSupport": "Yes",
+		"frequencyOfFoodDistribution": "Once a month",
+		"healthSupport": "Yes",
+		"percentOfFunctioningToilets": 22,
+		"potableWater": "No",
+		"siteName": "ZONAL EDUCATION CENTER CAMP, BIU",
+		"siteType": "Camp"
+	}
+}
