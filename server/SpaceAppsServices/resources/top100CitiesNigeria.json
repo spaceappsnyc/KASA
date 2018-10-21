@@ -1,893 +1,893 @@
 [
   {
-    "Country": "ng",
-    "City": "lagos",
-    "AccentCity": "Lagos",
-    "Region": 5,
-    "Population": 8789133,
-    "Latitude": 6.453056,
-    "Longitude": 3.395833
-  },
-  {
-    "Country": "ng",
-    "City": "kano",
-    "AccentCity": "Kano",
-    "Region": 29,
-    "Population": 3626204,
-    "Latitude": 11.994354,
-    "Longitude": 8.513807
-  },
-  {
-    "Country": "ng",
-    "City": "ibadan",
-    "AccentCity": "Ibadan",
-    "Region": 32,
-    "Population": 3565810,
-    "Latitude": 7.387778,
-    "Longitude": 3.896389
-  },
-  {
-    "Country": "ng",
-    "City": "kaduna",
-    "AccentCity": "Kaduna",
-    "Region": 23,
-    "Population": 1582211,
-    "Latitude": 10.522239,
-    "Longitude": 7.43828
-  },
-  {
-    "Country": "ng",
-    "City": "benin",
-    "AccentCity": "Bénin",
-    "Region": 37,
-    "Population": 1125126,
-    "Latitude": 6.335045,
-    "Longitude": 5.627492
-  },
-  {
-    "Country": "ng",
-    "City": "maiduguri",
-    "AccentCity": "Maiduguri",
-    "Region": 27,
-    "Population": 1112511,
-    "Latitude": 11.846441,
-    "Longitude": 13.160274
-  },
-  {
-    "Country": "ng",
-    "City": "zaria",
-    "AccentCity": "Zaria",
-    "Region": 23,
-    "Population": 975228,
-    "Latitude": 11.113236,
-    "Longitude": 7.725176
-  },
-  {
-    "Country": "ng",
-    "City": "aba",
-    "AccentCity": "Aba",
-    "Region": 45,
-    "Population": 897613,
-    "Latitude": 5.106576,
-    "Longitude": 7.366667
-  },
-  {
-    "Country": "ng",
-    "City": "ogbomosho",
-    "AccentCity": "Ogbomosho",
-    "Region": 32,
-    "Population": 861303,
-    "Latitude": 8.133333,
-    "Longitude": 4.266667
-  },
-  {
-    "Country": "ng",
-    "City": "jos",
-    "AccentCity": "Jos",
-    "Region": 49,
-    "Population": 816876,
-    "Latitude": 9.916667,
-    "Longitude": 8.9
-  },
-  {
-    "Country": "ng",
-    "City": "ilorin",
-    "AccentCity": "Ilorin",
-    "Region": 30,
-    "Population": 814246,
-    "Latitude": 8.5,
-    "Longitude": 4.55
-  },
-  {
-    "Country": "ng",
-    "City": "oyo",
-    "AccentCity": "Oyo",
-    "Region": 32,
-    "Population": 736113,
-    "Latitude": 7.85,
-    "Longitude": 3.933333
-  },
-  {
-    "Country": "ng",
-    "City": "enugu",
-    "AccentCity": "Enugu",
-    "Region": 47,
-    "Population": 653436,
-    "Latitude": 6.4402,
-    "Longitude": 7.4943
-  },
-  {
-    "Country": "ng",
-    "City": "abeokuta",
-    "AccentCity": "Abeokuta",
-    "Region": 16,
-    "Population": 593140,
-    "Latitude": 7.15,
-    "Longitude": 3.35
-  },
-  {
-    "Country": "ng",
-    "City": "sokoto",
-    "AccentCity": "Sokoto",
-    "Region": 51,
-    "Population": 563899,
-    "Latitude": 13.048025,
-    "Longitude": 5.214285
-  },
-  {
-    "Country": "ng",
-    "City": "onitsha",
-    "AccentCity": "Onitsha",
-    "Region": 25,
-    "Population": 561106,
-    "Latitude": 6.14543,
-    "Longitude": 6.788452
-  },
-  {
-    "Country": "ng",
-    "City": "warri",
-    "AccentCity": "Warri",
-    "Region": 10,
-    "Population": 536068,
-    "Latitude": 5.516667,
-    "Longitude": 5.75
-  },
-  {
-    "Country": "ng",
-    "City": "oshogbo",
-    "AccentCity": "Oshogbo",
-    "Region": 42,
-    "Population": 499444,
-    "Latitude": 7.766667,
-    "Longitude": 4.566667
-  },
-  {
-    "Country": "ng",
-    "City": "calabar",
-    "AccentCity": "Calabar",
-    "Region": 22,
-    "Population": 461832,
-    "Latitude": 4.9517,
-    "Longitude": 8.322
-  },
-  {
-    "Country": "ng",
-    "City": "katsina",
-    "AccentCity": "Katsina",
-    "Region": 24,
-    "Population": 432179,
-    "Latitude": 12.989428,
-    "Longitude": 7.600628
-  },
-  {
-    "Country": "ng",
-    "City": "akure",
-    "AccentCity": "Akure",
-    "Region": 48,
-    "Population": 420623,
-    "Latitude": 7.25256,
-    "Longitude": 5.193118
-  },
-  {
-    "Country": "ng",
-    "City": "ife",
-    "AccentCity": "Ife",
-    "Region": 32,
-    "Population": 372191,
-    "Latitude": 7.466667,
-    "Longitude": 4.566667
-  },
-  {
-    "Country": "ng",
-    "City": "iseyin",
-    "AccentCity": "Iseyin",
-    "Region": 32,
-    "Population": 340707,
-    "Latitude": 7.966667,
-    "Longitude": 3.6
-  },
-  {
-    "Country": "ng",
-    "City": "bauchi",
-    "AccentCity": "Bauchi",
-    "Region": 46,
-    "Population": 316173,
-    "Latitude": 10.313441,
-    "Longitude": 9.843273
-  },
-  {
-    "Country": "ng",
-    "City": "ikorodu",
-    "AccentCity": "Ikorodu",
-    "Region": 5,
-    "Population": 313468,
-    "Latitude": 6.615483,
-    "Longitude": 3.508673
-  },
-  {
-    "Country": "ng",
-    "City": "makurdi",
-    "AccentCity": "Makurdi",
-    "Region": 26,
-    "Population": 292664,
-    "Latitude": 7.7411,
-    "Longitude": 8.5121
-  },
-  {
-    "Country": "ng",
-    "City": "minna",
-    "AccentCity": "Minna",
-    "Region": 31,
-    "Population": 291930,
-    "Latitude": 9.613889,
-    "Longitude": 6.556944
-  },
-  {
-    "Country": "ng",
-    "City": "ede",
-    "AccentCity": "Ede",
-    "Region": 42,
-    "Population": 283728,
-    "Latitude": 7.733333,
-    "Longitude": 4.433333
-  },
-  {
-    "Country": "ng",
-    "City": "ilesha",
-    "AccentCity": "Ilesha",
-    "Region": 32,
-    "Population": 277922,
-    "Latitude": 8.916667,
-    "Longitude": 3.416667
-  },
-  {
-    "Country": "ng",
-    "City": "owo",
-    "AccentCity": "Owo",
-    "Region": 48,
-    "Population": 276593,
-    "Latitude": 7.196195,
-    "Longitude": 5.586806
-  },
-  {
-    "Country": "ng",
-    "City": "umuahia",
-    "AccentCity": "Umuahia",
-    "Region": 45,
-    "Population": 264680,
-    "Latitude": 5.526269,
-    "Longitude": 7.489589
-  },
-  {
-    "Country": "ng",
-    "City": "ondo",
-    "AccentCity": "Ondo",
-    "Region": 48,
-    "Population": 257023,
-    "Latitude": 7.1,
-    "Longitude": 4.833333
-  },
-  {
-    "Country": "ng",
-    "City": "damaturu",
-    "AccentCity": "Damaturu",
-    "Region": 44,
-    "Population": 255913,
-    "Latitude": 11.747,
-    "Longitude": 11.9608
-  },
-  {
-    "Country": "ng",
-    "City": "iwo",
-    "AccentCity": "Iwo",
-    "Region": 32,
-    "Population": 250459,
-    "Latitude": 7.633333,
-    "Longitude": 4.183333
-  },
-  {
-    "Country": "ng",
-    "City": "gombe",
-    "AccentCity": "Gombe",
-    "Region": 55,
-    "Population": 250278,
-    "Latitude": 10.28969,
-    "Longitude": 11.167288
-  },
-  {
-    "Country": "ng",
-    "City": "jimeta",
-    "AccentCity": "Jimeta",
-    "Region": 35,
-    "Population": 248166,
-    "Latitude": 9.283333,
-    "Longitude": 12.466667
-  },
-  {
-    "Country": "ng",
-    "City": "gusau",
-    "AccentCity": "Gusau",
-    "Region": 57,
-    "Population": 226873,
-    "Latitude": 12.162784,
-    "Longitude": 6.661348
-  },
-  {
-    "Country": "ng",
-    "City": "mubi",
-    "AccentCity": "Mubi",
-    "Region": 35,
-    "Population": 225721,
-    "Latitude": 10.267607,
-    "Longitude": 13.26436
-  },
-  {
-    "Country": "ng",
-    "City": "ikire",
-    "AccentCity": "Ikire",
-    "Region": 32,
-    "Population": 222174,
-    "Latitude": 7.35,
-    "Longitude": 4.183333
-  },
-  {
-    "Country": "ng",
-    "City": "owerri",
-    "AccentCity": "Owerri",
-    "Region": 28,
-    "Population": 215053,
-    "Latitude": 5.483333,
-    "Longitude": 7.030407
-  },
-  {
-    "Country": "ng",
-    "City": "shagamu",
-    "AccentCity": "Shagamu",
-    "Region": 16,
-    "Population": 214574,
-    "Latitude": 6.843226,
-    "Longitude": 3.647763
-  },
-  {
-    "Country": "ng",
-    "City": "ugep",
-    "AccentCity": "Ugep",
-    "Region": 22,
-    "Population": 200293,
-    "Latitude": 5.8086,
-    "Longitude": 8.0812
-  },
-  {
-    "Country": "ng",
-    "City": "gboko",
-    "AccentCity": "Gboko",
-    "Region": 26,
-    "Population": 195710,
-    "Latitude": 7.3179,
-    "Longitude": 8.9951
-  },
-  {
-    "Country": "ng",
-    "City": "nnewi",
-    "AccentCity": "Nnewi",
-    "Region": 25,
-    "Population": 194002,
-    "Latitude": 6.019864,
-    "Longitude": 6.914775
-  },
-  {
-    "Country": "ng",
-    "City": "ise",
-    "AccentCity": "Ise",
-    "Region": 54,
-    "Population": 190077,
-    "Latitude": 7.4632,
-    "Longitude": 5.4281
-  },
-  {
-    "Country": "ng",
-    "City": "ilawe",
-    "AccentCity": "Ilawe",
-    "Region": 54,
-    "Population": 182896,
-    "Latitude": 7.5986,
-    "Longitude": 5.1086
-  },
-  {
-    "Country": "ng",
-    "City": "ikare",
-    "AccentCity": "Ikare",
-    "Region": 48,
-    "Population": 182779,
-    "Latitude": 7.516667,
-    "Longitude": 5.75
-  },
-  {
-    "Country": "ng",
-    "City": "ila",
-    "AccentCity": "Ila",
-    "Region": 54,
-    "Population": 179204,
-    "Latitude": 8.016667,
-    "Longitude": 4.9
-  },
-  {
-    "Country": "ng",
-    "City": "shaki",
-    "AccentCity": "Shaki",
-    "Region": 32,
-    "Population": 178688,
-    "Latitude": 8.666667,
-    "Longitude": 3.383333
-  },
-  {
-    "Country": "ng",
-    "City": "abuja",
-    "AccentCity": "Abuja",
-    "Region": 31,
-    "Population": 174152,
-    "Latitude": 9.180515,
-    "Longitude": 7.179327
-  },
-  {
-    "Country": "ng",
-    "City": "bida",
-    "AccentCity": "Bida",
-    "Region": 31,
-    "Population": 171672,
-    "Latitude": 9.083333,
-    "Longitude": 6.016667
-  },
-  {
-    "Country": "ng",
-    "City": "awka",
-    "AccentCity": "Awka",
-    "Region": 25,
-    "Population": 167751,
-    "Latitude": 6.210095,
-    "Longitude": 7.074115
-  },
-  {
-    "Country": "ng",
-    "City": "ijero",
-    "AccentCity": "Ijero",
-    "Region": 54,
-    "Population": 167644,
-    "Latitude": 7.8139,
-    "Longitude": 5.0742
-  },
-  {
-    "Country": "ng",
-    "City": "inisa",
-    "AccentCity": "Inisa",
-    "Region": 32,
-    "Population": 164172,
-    "Latitude": 7.8,
-    "Longitude": 4.283333
-  },
-  {
-    "Country": "ng",
-    "City": "suleja",
-    "AccentCity": "Suleja",
-    "Region": 31,
-    "Population": 162150,
-    "Latitude": 9.180515,
-    "Longitude": 7.179327
-  },
-  {
-    "Country": "ng",
-    "City": "sapele",
-    "AccentCity": "Sapele",
-    "Region": 36,
-    "Population": 161692,
-    "Latitude": 5.894053,
-    "Longitude": 5.67666
-  },
-  {
-    "Country": "ng",
-    "City": "otukpo",
-    "AccentCity": "Otukpo",
-    "Region": 22,
-    "Population": 160830,
-    "Latitude": 6.815,
-    "Longitude": 8.6531
-  },
-  {
-    "Country": "ng",
-    "City": "kishi",
-    "AccentCity": "Kishi",
-    "Region": 32,
-    "Population": 155520,
-    "Latitude": 9.083333,
-    "Longitude": 3.85
-  },
-  {
-    "Country": "ng",
-    "City": "gbongan",
-    "AccentCity": "Gbongan",
-    "Region": 32,
-    "Population": 139494,
-    "Latitude": 7.466667,
-    "Longitude": 4.35
-  },
-  {
-    "Country": "ng",
-    "City": "ejigbo",
-    "AccentCity": "Ejigbo",
-    "Region": 32,
-    "Population": 138367,
-    "Latitude": 7.9,
-    "Longitude": 4.316667
-  },
-  {
-    "Country": "ng",
-    "City": "funtua",
-    "AccentCity": "Funtua",
-    "Region": 24,
-    "Population": 136821,
-    "Latitude": 11.523252,
-    "Longitude": 7.30813
-  },
-  {
-    "Country": "ng",
-    "City": "igboho",
-    "AccentCity": "Igboho",
-    "Region": 32,
-    "Population": 136772,
-    "Latitude": 8.833333,
-    "Longitude": 3.75
-  },
-  {
-    "Country": "ng",
-    "City": "obosi",
-    "AccentCity": "Obosi",
-    "Region": 25,
-    "Population": 136753,
-    "Latitude": 6.096967,
-    "Longitude": 6.818432
-  },
-  {
-    "Country": "ng",
-    "City": "bugama",
-    "AccentCity": "Bugama",
-    "Region": 50,
-    "Population": 135417,
-    "Latitude": 4.734071,
-    "Longitude": 6.863451
-  },
-  {
-    "Country": "ng",
-    "City": "ikirun",
-    "AccentCity": "Ikirun",
-    "Region": 42,
-    "Population": 134246,
-    "Latitude": 7.916667,
-    "Longitude": 4.666667
-  },
-  {
-    "Country": "ng",
-    "City": "abakaliki",
-    "AccentCity": "Abakaliki",
-    "Region": 53,
-    "Population": 134113,
-    "Latitude": 6.316249,
-    "Longitude": 8.116908
-  },
-  {
-    "Country": "ng",
-    "City": "okrika",
-    "AccentCity": "Okrika",
-    "Region": 50,
-    "Population": 133284,
-    "Latitude": 4.741589,
-    "Longitude": 7.084877
-  },
-  {
-    "Country": "ng",
-    "City": "amaigbo",
-    "AccentCity": "Amaigbo",
-    "Region": 45,
-    "Population": 127309,
-    "Latitude": 5.789171,
-    "Longitude": 7.838294
-  },
-  {
-    "Country": "ng",
-    "City": "lafia",
-    "AccentCity": "Lafia",
-    "Region": 56,
-    "Population": 127246,
-    "Latitude": 8.483333,
-    "Longitude": 8.516667
-  },
-  {
-    "Country": "ng",
-    "City": "gashua",
-    "AccentCity": "Gashua",
-    "Region": 44,
-    "Population": 125827,
-    "Latitude": 12.871,
-    "Longitude": 11.0482
-  },
-  {
-    "Country": "ng",
-    "City": "opobo",
-    "AccentCity": "Opobo",
-    "Region": 21,
-    "Population": 125398,
-    "Latitude": 4.564844,
-    "Longitude": 7.547802
-  },
-  {
-    "Country": "ng",
-    "City": "opobo",
-    "AccentCity": "Opobo",
-    "Region": 50,
-    "Population": 125398,
-    "Latitude": 4.51142,
-    "Longitude": 7.540093
-  },
-  {
-    "Country": "ng",
-    "City": "uyo",
-    "AccentCity": "Uyo",
-    "Region": 21,
-    "Population": 124690,
-    "Latitude": 5.033333,
-    "Longitude": 7.92657
-  },
-  {
-    "Country": "ng",
-    "City": "modakeke",
-    "AccentCity": "Modakeke",
-    "Region": 32,
-    "Population": 119537,
-    "Latitude": 7.383333,
-    "Longitude": 4.266667
-  },
-  {
-    "Country": "ng",
-    "City": "bama",
-    "AccentCity": "Bama",
-    "Region": 27,
-    "Population": 118129,
-    "Latitude": 11.522103,
-    "Longitude": 13.685579
-  },
-  {
-    "Country": "ng",
-    "City": "ilobu",
-    "AccentCity": "Ilobu",
-    "Region": 42,
-    "Population": 118097,
-    "Latitude": 7.833333,
-    "Longitude": 4.483333
-  },
-  {
-    "Country": "ng",
-    "City": "jalingo",
-    "AccentCity": "Jalingo",
-    "Region": 43,
-    "Population": 117766,
-    "Latitude": 8.883333,
-    "Longitude": 11.366667
-  },
-  {
-    "Country": "ng",
-    "City": "offa",
-    "AccentCity": "Offa",
-    "Region": 54,
-    "Population": 113841,
-    "Latitude": 8.15,
-    "Longitude": 4.716667
-  },
-  {
-    "Country": "ng",
-    "City": "oron",
-    "AccentCity": "Oron",
-    "Region": 21,
-    "Population": 112040,
-    "Latitude": 4.825614,
-    "Longitude": 8.234345
-  },
-  {
-    "Country": "ng",
-    "City": "nsukka",
-    "AccentCity": "Nsukka",
-    "Region": 47,
-    "Population": 111026,
-    "Latitude": 6.8561,
-    "Longitude": 7.3927
-  },
-  {
-    "Country": "ng",
-    "City": "nguru",
-    "AccentCity": "Nguru",
-    "Region": 44,
-    "Population": 111022,
-    "Latitude": 12.8791,
-    "Longitude": 10.4526
-  },
-  {
-    "Country": "ng",
-    "City": "ikole",
-    "AccentCity": "Ikole",
-    "Region": 54,
-    "Population": 110874,
-    "Latitude": 7.7897,
-    "Longitude": 5.5106
-  },
-  {
-    "Country": "ng",
-    "City": "hadejia",
-    "AccentCity": "Hadejia",
-    "Region": 39,
-    "Population": 110761,
-    "Latitude": 12.4498,
-    "Longitude": 10.0444
-  },
-  {
-    "Country": "ng",
-    "City": "uromi",
-    "AccentCity": "Uromi",
-    "Region": 37,
-    "Population": 108617,
-    "Latitude": 6.707294,
-    "Longitude": 6.328434
-  },
-  {
-    "Country": "ng",
-    "City": "pindiga",
-    "AccentCity": "Pindiga",
-    "Region": 55,
-    "Population": 106323,
-    "Latitude": 9.983333,
-    "Longitude": 10.933333
-  },
-  {
-    "Country": "ng",
-    "City": "azare",
-    "AccentCity": "Azare",
-    "Region": 46,
-    "Population": 105695,
-    "Latitude": 11.6765,
-    "Longitude": 10.1948
-  },
-  {
-    "Country": "ng",
-    "City": "nkpor",
-    "AccentCity": "Nkpor",
-    "Region": 25,
-    "Population": 103741,
-    "Latitude": 6.151641,
-    "Longitude": 6.844585
-  },
-  {
-    "Country": "ng",
-    "City": "ikere",
-    "AccentCity": "Ikere",
-    "Region": 54,
-    "Population": 103062,
-    "Latitude": 7.491328,
-    "Longitude": 5.232248
-  },
-  {
-    "Country": "ng",
-    "City": "lafiagi",
-    "AccentCity": "Lafiagi",
-    "Region": 54,
-    "Population": 102780,
-    "Latitude": 8.866667,
-    "Longitude": 5.416667
-  },
-  {
-    "Country": "ng",
-    "City": "kontagora",
-    "AccentCity": "Kontagora",
-    "Region": 31,
-    "Population": 98763,
-    "Latitude": 10.399893,
-    "Longitude": 5.469491
-  },
-  {
-    "Country": "ng",
-    "City": "yola",
-    "AccentCity": "Yola",
-    "Region": 35,
-    "Population": 96013,
-    "Latitude": 9.2,
-    "Longitude": 12.483333
-  },
-  {
-    "Country": "ng",
-    "City": "biu",
-    "AccentCity": "Biu",
-    "Region": 27,
-    "Population": 95012,
-    "Latitude": 10.612854,
-    "Longitude": 12.194579
-  },
-  {
-    "Country": "ng",
-    "City": "olupona",
-    "AccentCity": "Olupona",
-    "Region": 32,
-    "Population": 95002,
-    "Latitude": 7.6,
-    "Longitude": 4.183333
-  },
-  {
-    "Country": "ng",
-    "City": "lere",
-    "AccentCity": "Lere",
-    "Region": 23,
-    "Population": 93289,
-    "Latitude": 10.386966,
-    "Longitude": 8.572617
-  },
-  {
-    "Country": "ng",
-    "City": "wukari",
-    "AccentCity": "Wukari",
-    "Region": 26,
-    "Population": 92940,
-    "Latitude": 7.85,
-    "Longitude": 9.783333
-  },
-  {
-    "Country": "ng",
-    "City": "emure",
-    "AccentCity": "Emure",
-    "Region": 54,
-    "Population": 90646,
-    "Latitude": 7.436137,
-    "Longitude": 5.459322
-  },
-  {
-    "Country": "ng",
-    "City": "ifo",
-    "AccentCity": "Ifo",
-    "Region": 16,
-    "Population": 88278,
-    "Latitude": 6.814367,
-    "Longitude": 3.195753
-  },
-  {
-    "Country": "ng",
-    "City": "duku",
-    "AccentCity": "Duku",
-    "Region": 55,
-    "Population": 87671,
-    "Latitude": 10.823056,
-    "Longitude": 10.771667
-  },
-  {
-    "Country": "ng",
-    "City": "igede",
-    "AccentCity": "Igede",
-    "Region": 54,
-    "Population": 87282,
-    "Latitude": 7.666765,
-    "Longitude": 5.132047
+    "country": "ng",
+    "city": "lagos",
+    "accentCity": "Lagos",
+    "region": 5,
+    "population": 8789133,
+    "latitude": 6.453056,
+    "longitude": 3.395833
+  },
+  {
+    "country": "ng",
+    "city": "kano",
+    "accentCity": "Kano",
+    "region": 29,
+    "population": 3626204,
+    "latitude": 11.994354,
+    "longitude": 8.513807
+  },
+  {
+    "country": "ng",
+    "city": "ibadan",
+    "accentCity": "Ibadan",
+    "region": 32,
+    "population": 3565810,
+    "latitude": 7.387778,
+    "longitude": 3.896389
+  },
+  {
+    "country": "ng",
+    "city": "kaduna",
+    "accentCity": "Kaduna",
+    "region": 23,
+    "population": 1582211,
+    "latitude": 10.522239,
+    "longitude": 7.43828
+  },
+  {
+    "country": "ng",
+    "city": "benin",
+    "accentCity": "Bï¿½nin",
+    "region": 37,
+    "population": 1125126,
+    "latitude": 6.335045,
+    "longitude": 5.627492
+  },
+  {
+    "country": "ng",
+    "city": "maiduguri",
+    "accentCity": "Maiduguri",
+    "region": 27,
+    "population": 1112511,
+    "latitude": 11.846441,
+    "longitude": 13.160274
+  },
+  {
+    "country": "ng",
+    "city": "zaria",
+    "accentCity": "Zaria",
+    "region": 23,
+    "population": 975228,
+    "latitude": 11.113236,
+    "longitude": 7.725176
+  },
+  {
+    "country": "ng",
+    "city": "aba",
+    "accentCity": "Aba",
+    "region": 45,
+    "population": 897613,
+    "latitude": 5.106576,
+    "longitude": 7.366667
+  },
+  {
+    "country": "ng",
+    "city": "ogbomosho",
+    "accentCity": "Ogbomosho",
+    "region": 32,
+    "population": 861303,
+    "latitude": 8.133333,
+    "longitude": 4.266667
+  },
+  {
+    "country": "ng",
+    "city": "jos",
+    "accentCity": "Jos",
+    "region": 49,
+    "population": 816876,
+    "latitude": 9.916667,
+    "longitude": 8.9
+  },
+  {
+    "country": "ng",
+    "city": "ilorin",
+    "accentCity": "Ilorin",
+    "region": 30,
+    "population": 814246,
+    "latitude": 8.5,
+    "longitude": 4.55
+  },
+  {
+    "country": "ng",
+    "city": "oyo",
+    "accentCity": "Oyo",
+    "region": 32,
+    "population": 736113,
+    "latitude": 7.85,
+    "longitude": 3.933333
+  },
+  {
+    "country": "ng",
+    "city": "enugu",
+    "accentCity": "Enugu",
+    "region": 47,
+    "population": 653436,
+    "latitude": 6.4402,
+    "longitude": 7.4943
+  },
+  {
+    "country": "ng",
+    "city": "abeokuta",
+    "accentCity": "Abeokuta",
+    "region": 16,
+    "population": 593140,
+    "latitude": 7.15,
+    "longitude": 3.35
+  },
+  {
+    "country": "ng",
+    "city": "sokoto",
+    "accentCity": "Sokoto",
+    "region": 51,
+    "population": 563899,
+    "latitude": 13.048025,
+    "longitude": 5.214285
+  },
+  {
+    "country": "ng",
+    "city": "onitsha",
+    "accentCity": "Onitsha",
+    "region": 25,
+    "population": 561106,
+    "latitude": 6.14543,
+    "longitude": 6.788452
+  },
+  {
+    "country": "ng",
+    "city": "warri",
+    "accentCity": "Warri",
+    "region": 10,
+    "population": 536068,
+    "latitude": 5.516667,
+    "longitude": 5.75
+  },
+  {
+    "country": "ng",
+    "city": "oshogbo",
+    "accentCity": "Oshogbo",
+    "region": 42,
+    "population": 499444,
+    "latitude": 7.766667,
+    "longitude": 4.566667
+  },
+  {
+    "country": "ng",
+    "city": "calabar",
+    "accentCity": "Calabar",
+    "region": 22,
+    "population": 461832,
+    "latitude": 4.9517,
+    "longitude": 8.322
+  },
+  {
+    "country": "ng",
+    "city": "katsina",
+    "accentCity": "Katsina",
+    "region": 24,
+    "population": 432179,
+    "latitude": 12.989428,
+    "longitude": 7.600628
+  },
+  {
+    "country": "ng",
+    "city": "akure",
+    "accentCity": "Akure",
+    "region": 48,
+    "population": 420623,
+    "latitude": 7.25256,
+    "longitude": 5.193118
+  },
+  {
+    "country": "ng",
+    "city": "ife",
+    "accentCity": "Ife",
+    "region": 32,
+    "population": 372191,
+    "latitude": 7.466667,
+    "longitude": 4.566667
+  },
+  {
+    "country": "ng",
+    "city": "iseyin",
+    "accentCity": "Iseyin",
+    "region": 32,
+    "population": 340707,
+    "latitude": 7.966667,
+    "longitude": 3.6
+  },
+  {
+    "country": "ng",
+    "city": "bauchi",
+    "accentCity": "Bauchi",
+    "region": 46,
+    "population": 316173,
+    "latitude": 10.313441,
+    "longitude": 9.843273
+  },
+  {
+    "country": "ng",
+    "city": "ikorodu",
+    "accentCity": "Ikorodu",
+    "region": 5,
+    "population": 313468,
+    "latitude": 6.615483,
+    "longitude": 3.508673
+  },
+  {
+    "country": "ng",
+    "city": "makurdi",
+    "accentCity": "Makurdi",
+    "region": 26,
+    "population": 292664,
+    "latitude": 7.7411,
+    "longitude": 8.5121
+  },
+  {
+    "country": "ng",
+    "city": "minna",
+    "accentCity": "Minna",
+    "region": 31,
+    "population": 291930,
+    "latitude": 9.613889,
+    "longitude": 6.556944
+  },
+  {
+    "country": "ng",
+    "city": "ede",
+    "accentCity": "Ede",
+    "region": 42,
+    "population": 283728,
+    "latitude": 7.733333,
+    "longitude": 4.433333
+  },
+  {
+    "country": "ng",
+    "city": "ilesha",
+    "accentCity": "Ilesha",
+    "region": 32,
+    "population": 277922,
+    "latitude": 8.916667,
+    "longitude": 3.416667
+  },
+  {
+    "country": "ng",
+    "city": "owo",
+    "accentCity": "Owo",
+    "region": 48,
+    "population": 276593,
+    "latitude": 7.196195,
+    "longitude": 5.586806
+  },
+  {
+    "country": "ng",
+    "city": "umuahia",
+    "accentCity": "Umuahia",
+    "region": 45,
+    "population": 264680,
+    "latitude": 5.526269,
+    "longitude": 7.489589
+  },
+  {
+    "country": "ng",
+    "city": "ondo",
+    "accentCity": "Ondo",
+    "region": 48,
+    "population": 257023,
+    "latitude": 7.1,
+    "longitude": 4.833333
+  },
+  {
+    "country": "ng",
+    "city": "damaturu",
+    "accentCity": "Damaturu",
+    "region": 44,
+    "population": 255913,
+    "latitude": 11.747,
+    "longitude": 11.9608
+  },
+  {
+    "country": "ng",
+    "city": "iwo",
+    "accentCity": "Iwo",
+    "region": 32,
+    "population": 250459,
+    "latitude": 7.633333,
+    "longitude": 4.183333
+  },
+  {
+    "country": "ng",
+    "city": "gombe",
+    "accentCity": "Gombe",
+    "region": 55,
+    "population": 250278,
+    "latitude": 10.28969,
+    "longitude": 11.167288
+  },
+  {
+    "country": "ng",
+    "city": "jimeta",
+    "accentCity": "Jimeta",
+    "region": 35,
+    "population": 248166,
+    "latitude": 9.283333,
+    "longitude": 12.466667
+  },
+  {
+    "country": "ng",
+    "city": "gusau",
+    "accentCity": "Gusau",
+    "region": 57,
+    "population": 226873,
+    "latitude": 12.162784,
+    "longitude": 6.661348
+  },
+  {
+    "country": "ng",
+    "city": "mubi",
+    "accentCity": "Mubi",
+    "region": 35,
+    "population": 225721,
+    "latitude": 10.267607,
+    "longitude": 13.26436
+  },
+  {
+    "country": "ng",
+    "city": "ikire",
+    "accentCity": "Ikire",
+    "region": 32,
+    "population": 222174,
+    "latitude": 7.35,
+    "longitude": 4.183333
+  },
+  {
+    "country": "ng",
+    "city": "owerri",
+    "accentCity": "Owerri",
+    "region": 28,
+    "population": 215053,
+    "latitude": 5.483333,
+    "longitude": 7.030407
+  },
+  {
+    "country": "ng",
+    "city": "shagamu",
+    "accentCity": "Shagamu",
+    "region": 16,
+    "population": 214574,
+    "latitude": 6.843226,
+    "longitude": 3.647763
+  },
+  {
+    "country": "ng",
+    "city": "ugep",
+    "accentCity": "Ugep",
+    "region": 22,
+    "population": 200293,
+    "latitude": 5.8086,
+    "longitude": 8.0812
+  },
+  {
+    "country": "ng",
+    "city": "gboko",
+    "accentCity": "Gboko",
+    "region": 26,
+    "population": 195710,
+    "latitude": 7.3179,
+    "longitude": 8.9951
+  },
+  {
+    "country": "ng",
+    "city": "nnewi",
+    "accentCity": "Nnewi",
+    "region": 25,
+    "population": 194002,
+    "latitude": 6.019864,
+    "longitude": 6.914775
+  },
+  {
+    "country": "ng",
+    "city": "ise",
+    "accentCity": "Ise",
+    "region": 54,
+    "population": 190077,
+    "latitude": 7.4632,
+    "longitude": 5.4281
+  },
+  {
+    "country": "ng",
+    "city": "ilawe",
+    "accentCity": "Ilawe",
+    "region": 54,
+    "population": 182896,
+    "latitude": 7.5986,
+    "longitude": 5.1086
+  },
+  {
+    "country": "ng",
+    "city": "ikare",
+    "accentCity": "Ikare",
+    "region": 48,
+    "population": 182779,
+    "latitude": 7.516667,
+    "longitude": 5.75
+  },
+  {
+    "country": "ng",
+    "city": "ila",
+    "accentCity": "Ila",
+    "region": 54,
+    "population": 179204,
+    "latitude": 8.016667,
+    "longitude": 4.9
+  },
+  {
+    "country": "ng",
+    "city": "shaki",
+    "accentCity": "Shaki",
+    "region": 32,
+    "population": 178688,
+    "latitude": 8.666667,
+    "longitude": 3.383333
+  },
+  {
+    "country": "ng",
+    "city": "abuja",
+    "accentCity": "Abuja",
+    "region": 31,
+    "population": 174152,
+    "latitude": 9.180515,
+    "longitude": 7.179327
+  },
+  {
+    "country": "ng",
+    "city": "bida",
+    "accentCity": "Bida",
+    "region": 31,
+    "population": 171672,
+    "latitude": 9.083333,
+    "longitude": 6.016667
+  },
+  {
+    "country": "ng",
+    "city": "awka",
+    "accentCity": "Awka",
+    "region": 25,
+    "population": 167751,
+    "latitude": 6.210095,
+    "longitude": 7.074115
+  },
+  {
+    "country": "ng",
+    "city": "ijero",
+    "accentCity": "Ijero",
+    "region": 54,
+    "population": 167644,
+    "latitude": 7.8139,
+    "longitude": 5.0742
+  },
+  {
+    "country": "ng",
+    "city": "inisa",
+    "accentCity": "Inisa",
+    "region": 32,
+    "population": 164172,
+    "latitude": 7.8,
+    "longitude": 4.283333
+  },
+  {
+    "country": "ng",
+    "city": "suleja",
+    "accentCity": "Suleja",
+    "region": 31,
+    "population": 162150,
+    "latitude": 9.180515,
+    "longitude": 7.179327
+  },
+  {
+    "country": "ng",
+    "city": "sapele",
+    "accentCity": "Sapele",
+    "region": 36,
+    "population": 161692,
+    "latitude": 5.894053,
+    "longitude": 5.67666
+  },
+  {
+    "country": "ng",
+    "city": "otukpo",
+    "accentCity": "Otukpo",
+    "region": 22,
+    "population": 160830,
+    "latitude": 6.815,
+    "longitude": 8.6531
+  },
+  {
+    "country": "ng",
+    "city": "kishi",
+    "accentCity": "Kishi",
+    "region": 32,
+    "population": 155520,
+    "latitude": 9.083333,
+    "longitude": 3.85
+  },
+  {
+    "country": "ng",
+    "city": "gbongan",
+    "accentCity": "Gbongan",
+    "region": 32,
+    "population": 139494,
+    "latitude": 7.466667,
+    "longitude": 4.35
+  },
+  {
+    "country": "ng",
+    "city": "ejigbo",
+    "accentCity": "Ejigbo",
+    "region": 32,
+    "population": 138367,
+    "latitude": 7.9,
+    "longitude": 4.316667
+  },
+  {
+    "country": "ng",
+    "city": "funtua",
+    "accentCity": "Funtua",
+    "region": 24,
+    "population": 136821,
+    "latitude": 11.523252,
+    "longitude": 7.30813
+  },
+  {
+    "country": "ng",
+    "city": "igboho",
+    "accentCity": "Igboho",
+    "region": 32,
+    "population": 136772,
+    "latitude": 8.833333,
+    "longitude": 3.75
+  },
+  {
+    "country": "ng",
+    "city": "obosi",
+    "accentCity": "Obosi",
+    "region": 25,
+    "population": 136753,
+    "latitude": 6.096967,
+    "longitude": 6.818432
+  },
+  {
+    "country": "ng",
+    "city": "bugama",
+    "accentCity": "Bugama",
+    "region": 50,
+    "population": 135417,
+    "latitude": 4.734071,
+    "longitude": 6.863451
+  },
+  {
+    "country": "ng",
+    "city": "ikirun",
+    "accentCity": "Ikirun",
+    "region": 42,
+    "population": 134246,
+    "latitude": 7.916667,
+    "longitude": 4.666667
+  },
+  {
+    "country": "ng",
+    "city": "abakaliki",
+    "accentCity": "Abakaliki",
+    "region": 53,
+    "population": 134113,
+    "latitude": 6.316249,
+    "longitude": 8.116908
+  },
+  {
+    "country": "ng",
+    "city": "okrika",
+    "accentCity": "Okrika",
+    "region": 50,
+    "population": 133284,
+    "latitude": 4.741589,
+    "longitude": 7.084877
+  },
+  {
+    "country": "ng",
+    "city": "amaigbo",
+    "accentCity": "Amaigbo",
+    "region": 45,
+    "population": 127309,
+    "latitude": 5.789171,
+    "longitude": 7.838294
+  },
+  {
+    "country": "ng",
+    "city": "lafia",
+    "accentCity": "Lafia",
+    "region": 56,
+    "population": 127246,
+    "latitude": 8.483333,
+    "longitude": 8.516667
+  },
+  {
+    "country": "ng",
+    "city": "gashua",
+    "accentCity": "Gashua",
+    "region": 44,
+    "population": 125827,
+    "latitude": 12.871,
+    "longitude": 11.0482
+  },
+  {
+    "country": "ng",
+    "city": "opobo",
+    "accentCity": "Opobo",
+    "region": 21,
+    "population": 125398,
+    "latitude": 4.564844,
+    "longitude": 7.547802
+  },
+  {
+    "country": "ng",
+    "city": "opobo",
+    "accentCity": "Opobo",
+    "region": 50,
+    "population": 125398,
+    "latitude": 4.51142,
+    "longitude": 7.540093
+  },
+  {
+    "country": "ng",
+    "city": "uyo",
+    "accentCity": "Uyo",
+    "region": 21,
+    "population": 124690,
+    "latitude": 5.033333,
+    "longitude": 7.92657
+  },
+  {
+    "country": "ng",
+    "city": "modakeke",
+    "accentCity": "Modakeke",
+    "region": 32,
+    "population": 119537,
+    "latitude": 7.383333,
+    "longitude": 4.266667
+  },
+  {
+    "country": "ng",
+    "city": "bama",
+    "accentCity": "Bama",
+    "region": 27,
+    "population": 118129,
+    "latitude": 11.522103,
+    "longitude": 13.685579
+  },
+  {
+    "country": "ng",
+    "city": "ilobu",
+    "accentCity": "Ilobu",
+    "region": 42,
+    "population": 118097,
+    "latitude": 7.833333,
+    "longitude": 4.483333
+  },
+  {
+    "country": "ng",
+    "city": "jalingo",
+    "accentCity": "Jalingo",
+    "region": 43,
+    "population": 117766,
+    "latitude": 8.883333,
+    "longitude": 11.366667
+  },
+  {
+    "country": "ng",
+    "city": "offa",
+    "accentCity": "Offa",
+    "region": 54,
+    "population": 113841,
+    "latitude": 8.15,
+    "longitude": 4.716667
+  },
+  {
+    "country": "ng",
+    "city": "oron",
+    "accentCity": "Oron",
+    "region": 21,
+    "population": 112040,
+    "latitude": 4.825614,
+    "longitude": 8.234345
+  },
+  {
+    "country": "ng",
+    "city": "nsukka",
+    "accentCity": "Nsukka",
+    "region": 47,
+    "population": 111026,
+    "latitude": 6.8561,
+    "longitude": 7.3927
+  },
+  {
+    "country": "ng",
+    "city": "nguru",
+    "accentCity": "Nguru",
+    "region": 44,
+    "population": 111022,
+    "latitude": 12.8791,
+    "longitude": 10.4526
+  },
+  {
+    "country": "ng",
+    "city": "ikole",
+    "accentCity": "Ikole",
+    "region": 54,
+    "population": 110874,
+    "latitude": 7.7897,
+    "longitude": 5.5106
+  },
+  {
+    "country": "ng",
+    "city": "hadejia",
+    "accentCity": "Hadejia",
+    "region": 39,
+    "population": 110761,
+    "latitude": 12.4498,
+    "longitude": 10.0444
+  },
+  {
+    "country": "ng",
+    "city": "uromi",
+    "accentCity": "Uromi",
+    "region": 37,
+    "population": 108617,
+    "latitude": 6.707294,
+    "longitude": 6.328434
+  },
+  {
+    "country": "ng",
+    "city": "pindiga",
+    "accentCity": "Pindiga",
+    "region": 55,
+    "population": 106323,
+    "latitude": 9.983333,
+    "longitude": 10.933333
+  },
+  {
+    "country": "ng",
+    "city": "azare",
+    "accentCity": "Azare",
+    "region": 46,
+    "population": 105695,
+    "latitude": 11.6765,
+    "longitude": 10.1948
+  },
+  {
+    "country": "ng",
+    "city": "nkpor",
+    "accentCity": "Nkpor",
+    "region": 25,
+    "population": 103741,
+    "latitude": 6.151641,
+    "longitude": 6.844585
+  },
+  {
+    "country": "ng",
+    "city": "ikere",
+    "accentCity": "Ikere",
+    "region": 54,
+    "population": 103062,
+    "latitude": 7.491328,
+    "longitude": 5.232248
+  },
+  {
+    "country": "ng",
+    "city": "lafiagi",
+    "accentCity": "Lafiagi",
+    "region": 54,
+    "population": 102780,
+    "latitude": 8.866667,
+    "longitude": 5.416667
+  },
+  {
+    "country": "ng",
+    "city": "kontagora",
+    "accentCity": "Kontagora",
+    "region": 31,
+    "population": 98763,
+    "latitude": 10.399893,
+    "longitude": 5.469491
+  },
+  {
+    "country": "ng",
+    "city": "yola",
+    "accentCity": "Yola",
+    "region": 35,
+    "population": 96013,
+    "latitude": 9.2,
+    "longitude": 12.483333
+  },
+  {
+    "country": "ng",
+    "city": "biu",
+    "accentCity": "Biu",
+    "region": 27,
+    "population": 95012,
+    "latitude": 10.612854,
+    "longitude": 12.194579
+  },
+  {
+    "country": "ng",
+    "city": "olupona",
+    "accentCity": "Olupona",
+    "region": 32,
+    "population": 95002,
+    "latitude": 7.6,
+    "longitude": 4.183333
+  },
+  {
+    "country": "ng",
+    "city": "lere",
+    "accentCity": "Lere",
+    "region": 23,
+    "population": 93289,
+    "latitude": 10.386966,
+    "longitude": 8.572617
+  },
+  {
+    "country": "ng",
+    "city": "wukari",
+    "accentCity": "Wukari",
+    "region": 26,
+    "population": 92940,
+    "latitude": 7.85,
+    "longitude": 9.783333
+  },
+  {
+    "country": "ng",
+    "city": "emure",
+    "accentCity": "Emure",
+    "region": 54,
+    "population": 90646,
+    "latitude": 7.436137,
+    "longitude": 5.459322
+  },
+  {
+    "country": "ng",
+    "city": "ifo",
+    "accentCity": "Ifo",
+    "region": 16,
+    "population": 88278,
+    "latitude": 6.814367,
+    "longitude": 3.195753
+  },
+  {
+    "country": "ng",
+    "city": "duku",
+    "accentCity": "Duku",
+    "region": 55,
+    "population": 87671,
+    "latitude": 10.823056,
+    "longitude": 10.771667
+  },
+  {
+    "country": "ng",
+    "city": "igede",
+    "accentCity": "Igede",
+    "region": 54,
+    "population": 87282,
+    "latitude": 7.666765,
+    "longitude": 5.132047
   }
 ]
