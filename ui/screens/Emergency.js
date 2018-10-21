@@ -14,7 +14,7 @@ const region = {
 
 export default class EmergencyScreen extends React.Component {
   static navigationOptions = {
-    title: 'Emergency',
+    title: 'Top IDP Camps Near You',
   };
   state = {
     location: null,
@@ -100,6 +100,3 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   }
 })
-
-
-

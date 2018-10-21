@@ -17,17 +17,14 @@
     "@mapbox/polyline": "^1.0.0",
     "axios": "^0.18.0",
     "expo": "^30.0.1",
-<<<<<<< HEAD
     "postman": "^0.2.0",
-=======
-    "expo-cli": "^2.2.0",
->>>>>>> 3dbc00326f106423a784b47d902dbdac9b6ee481
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
-    "react-native-material-design": "^0.3.7",
     "react-native-elements": "^0.19.1",
     "react-native-maps": "^0.22.0",
+    "react-native-material-design": "^0.3.7",
     "react-native-material-kit": "^0.5.1",
+    "react-native-popup-dialog": "^0.15.1",
     "react-navigation": "^2.16.0",
     "tcomb-form-native": "^0.6.20"
   },

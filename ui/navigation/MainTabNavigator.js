@@ -16,7 +16,7 @@ EmergencyStack.navigationOptions = {
   tabBarIcon: ({ focused }) => (
     <TabBarIcon
       focused={focused}
-      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'md-link'}
+      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'icon-plus-sign-alt'}
     />
   ),
 };
@@ -26,11 +26,11 @@ const DetailsStack = createStackNavigator({
 });
 
 DetailsStack.navigationOptions = {
-  tabBarLabel: 'Details',
+  tabBarLabel: 'Camps',
   tabBarIcon: ({ focused }) => (
     <TabBarIcon
       focused={focused}
-      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'md-link'}
+      name={Platform.OS === 'ios' ? `ios-link${focused ? '' : '-outline'}` : 'md-location-pin'}
     />
   ),
 };

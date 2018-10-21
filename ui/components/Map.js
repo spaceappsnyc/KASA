@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { MapView } from 'expo';
-import Polyline from '@mapbox/polyline';
 
 const Marker = MapView.Marker
 
