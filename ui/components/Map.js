@@ -1,16 +1,30 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { MapView } from 'expo';
+import Polyline from '@mapbox/polyline';
 
 const Marker = MapView.Marker
 
 export default class Map extends Component {
+    constructor(props) {
+      super(props);  
+      this.state = {
+        latitude: 7.247324,
+        longitude: 6.010124,
+        error:null,
+        concat: null,
+        coords: [],
+        cordLatitude: this.props.startLatitude,
+        cordLongitude: this.props.startLongitude,
+      };
+    }
+
   renderMarkers() {
     return this.props.places.map((place, i) => (
-      <Marker key={i} title={place.name} coordinate={place.coords} />
+      <Marker key={i} title={place.nearbyIdpCamp} coordinate={place.coords} />
     ))
   }
-  
+
   render() {
     const { region } = this.props
     return (
