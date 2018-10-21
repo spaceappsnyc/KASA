@@ -23,26 +23,55 @@ def score_calculation(userCoordinates):
     populationDensityScores = optimalPopDensityScore()
 
     #Iterate through the list of IDP camps and combine scores from each measure
+    supportScore = 0
     for unClusterDistancesJson in unClusterDistances:
-        city = unClusterDistancesJson["city"]
         latitude = float(unClusterDistancesJson["latitude"])
         longitude = float(unClusterDistancesJson["longitude"])
         existingDistance = unClusterDistancesJson["distance"]
-        nearbyIdpCamp = unClusterDistancesJson["name"]
+        nearbyIdpCamp = unClusterDistancesJson["siteName"]
 
         #IDP Camp score
-        percentageIDPCampDiff = (existingDistance - shortestDistance)/shortestDistance
+        if existingDistance != "":
+            percentageIDPCampDiff = (existingDistance - shortestDistance)/shortestDistance
+        else:
+            percentageIDPCampDiff = 100
         unScore = 100 - percentageIDPCampDiff
 
+        #Support score
+        if unClusterDistancesJson["washSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["cccmSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["healthSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["shelterNfiSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["foodSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["protectionSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["educationSupport"] == "Yes":
+            supportScore += 1
+        if unClusterDistancesJson["livelihoodSupport"] == "Yes":
+            supportScore += 1
+
+        overallSupportScore = (supportScore/8)*100
+        print(overallSupportScore)
+
         #Population Density score
-        popDensityScore = populationDensityScores[city]["score"]
+        #popDensityScore = populationDensityScores[city]["score"]
 
         #Overall Score - taking weights into account
-        score = (unScore * 0.6) + (popDensityScore * 0.4)
+        #score = (unScore * 0.6) + (popDensityScore * 0.4)
+
         coords = {"longitude": longitude, "latitude": latitude}
-        scoreDict = {"city": city, "score": score, "nearbyIdpCamp": nearbyIdpCamp, "coords": coords }
+        score = unScore*.5 + overallSupportScore*.5
+        scoreDict = {"idpCamp": nearbyIdpCamp, "score": score,  "coords": coords }
         print(scoreDict)
+        supportScore = 0
         overallScoreList.append(scoreDict)
 
     print(overallScoreList)
     return json.dumps(overallScoreList)
+
+score_calculation("7.247324,6.010124")

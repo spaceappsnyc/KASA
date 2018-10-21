@@ -19,7 +19,7 @@ def readDataForNigerianCamps(nigerianCampFileName):
 def readDataForIdpCamps():
     with open("./resources/nigeria_camps.json") as f:
         data = json.load(f)
-    print data
+    return data
 
 def getDistancesToIdpCamps(userCoordinates):
     '''
@@ -37,8 +37,27 @@ def getDistancesToIdpCamps(userCoordinates):
         json.dump(idpCamps, fp)
     return idpCamps
     '''
-    with open("./resources/idp_camps_with_distance.json") as f:
+    #with open("./resources/idp_camps_with_distance.json") as f:
+    with open("./resources/idpCampWithDistance.json") as f:
         data = json.load(f)
     return data
+    """
+    idpCamps = readDataForIdpCamps() #"./resources/nigeria_camps.json"
+    for idpCamp in idpCamps:
+        idpLatitude = idpCamp["latitude"]
+        idpLongitude = idpCamp["longitude"]
+        idpCampCoordinates = str(idpLatitude) + "," + str(idpLongitude)
+        print(idpCampCoordinates)
+        distance = ""
+        try:
+            distance = getDistance(userCoordinates, idpCampCoordinates)["value"]
+        except Exception as err:
+            print("Error getting distance: " + repr(err))
+        idpCamp["distance"] = distance
+    with open('./resources/idpCampWithDistance.json', 'w') as fp:
+        json.dump(idpCamps, fp)
+    return idpCamps
+    """
 
-readDataForIdpCamps()
+#getDistancesToIdpCamps("7.247324,6.010124")
+#readDataForIdpCamps()
