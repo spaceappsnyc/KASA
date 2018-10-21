@@ -10,11 +10,8 @@ def readDataForIdpCamps(idpCampFileName):
     return data
 
 def getDistancesToIdpCamps(userCoordinates):
-    with open("./resources/idpCampWithDistance.json") as f:
-        data = json.load(f)
-    return data
-
     '''
+    KEEP THIS IN CASE WE NEED IT FOR LATER
     idpCamps = readDataForIdpCamps("./resources/idp_camps.json")
     for idpCamp in idpCamps:
         idpCampCoordinates = idpCamp["coordinates"]
@@ -28,3 +25,7 @@ def getDistancesToIdpCamps(userCoordinates):
         json.dump(idpCamps, fp)
     return idpCamps
     '''
+    with open("./resources/idp_camps_with_distance.json") as f:
+        data = json.load(f)
+    return data
+

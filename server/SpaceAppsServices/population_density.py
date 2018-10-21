@@ -17,14 +17,14 @@ def readDataForPopulationDensity(populationFileName):
         area = float(p["area"])
         popDensity = popCount / (area * 1000)
         p["populationDensity"] = popDensity
-    with open('./resources/populationWithDensities2.json', 'w') as fp:
+    with open('./resources/population_with_densities.json', 'w') as fp:
         json.dump(populations, fp)
 
 def optimalPopDensityScore():
     """
     sort cities by population density relative to optimal density
     """
-    with open("./resources/populationWithDensities.json") as f:
+    with open("./resources/population_with_densities.json") as f:
         cityList = json.load(f)
 
     summation = 0
@@ -39,5 +39,3 @@ def optimalPopDensityScore():
         cityDict[cityName] = city
 
     return cityDict
-
-readDataForPopulationDensity("./resources/population4.csv")
