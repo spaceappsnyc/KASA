@@ -25,8 +25,8 @@ def score_calculation(userCoordinates):
     #Iterate through the list of IDP camps and combine scores from each measure
     for unClusterDistancesJson in unClusterDistances:
         city = unClusterDistancesJson["city"]
-        latitude = unClusterDistancesJson["latitude"]
-        longitude = unClusterDistancesJson["longitude"]
+        latitude = float(unClusterDistancesJson["latitude"])
+        longitude = float(unClusterDistancesJson["longitude"])
         existingDistance = unClusterDistancesJson["distance"]
         nearbyIdpCamp = unClusterDistancesJson["name"]
 
@@ -39,7 +39,9 @@ def score_calculation(userCoordinates):
 
         #Overall Score - taking weights into account
         score = (unScore * 0.6) + (popDensityScore * 0.4)
-        scoreDict = {"city": city, "nearbyIdpCamp": nearbyIdpCamp, "latitude": latitude, "longitude": longitude, "score": score}
+        coords = {"longitude": longitude, "latitude": latitude}
+        scoreDict = {"city": city, "score": score, "nearbyIdpCamp": nearbyIdpCamp, "coords": coords }
+        print(scoreDict)
         overallScoreList.append(scoreDict)
 
     print(overallScoreList)
