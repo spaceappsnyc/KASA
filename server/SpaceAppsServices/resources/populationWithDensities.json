@@ -220,5 +220,227 @@
 		"city": "Zamfara",
 		"populationCount": 4515400,
 		"populationDensity": 0.11356068608218903
+    },
+    {
+		"area": 6320,
+		"city": "Umuahia",
+		"populationCount": 3727300,
+		"populationDensity": 0.5897626582278481
+	},
+	{
+		"area": 36917,
+		"city": "Yola",
+		"populationCount": 4248400,
+		"populationDensity": 0.11507977354606279
+	},
+	{
+		"area": 7081,
+		"city": "Uyo",
+		"populationCount": 5482200,
+		"populationDensity": 0.774212681824601
+	},
+	{
+		"area": 4844,
+		"city": "Awka",
+		"populationCount": 5527800,
+		"populationDensity": 1.1411643270024774
+	},
+	{
+		"area": 45837,
+		"city": "Bauchi",
+		"populationCount": 6537300,
+		"populationDensity": 0.14262059035277178
+	},
+	{
+		"area": 10773,
+		"city": "Yenagoa",
+		"populationCount": 2278000,
+		"populationDensity": 0.2114545623317553
+	},
+	{
+		"area": 34059,
+		"city": "Makurdi",
+		"populationCount": 5741800,
+		"populationDensity": 0.16858392788983823
+	},
+	{
+		"area": 70898,
+		"city": "Maiduguri",
+		"populationCount": 5860200,
+		"populationDensity": 0.08265677452114305
+	},
+	{
+		"area": 20156,
+		"city": "Calabar",
+		"populationCount": 3866300,
+		"populationDensity": 0.19181881325659852
+	},
+	{
+		"area": 17698,
+		"city": "Asaba",
+		"populationCount": 5663400,
+		"populationDensity": 0.320002260142389
+	},
+	{
+		"area": 5670,
+		"city": "Abakaliki",
+		"populationCount": 2880400,
+		"populationDensity": 0.5080070546737213
+	},
+	{
+		"area": 17802,
+		"city": "Benin City",
+		"populationCount": 4235600,
+		"populationDensity": 0.23792832266037525
+	},
+	{
+		"area": 6353,
+		"city": "Ado Ekiti",
+		"populationCount": 3270800,
+		"populationDensity": 0.5148433810798048
+	},
+	{
+		"area": 7161,
+		"city": "Enugu",
+		"populationCount": 4411100,
+		"populationDensity": 0.6159893869571289
+	},
+	{
+		"area": 7315,
+		"city": "Abuja",
+		"populationCount": 3564100,
+		"populationDensity": 0.4872317156527683
+	},
+	{
+		"area": 18768,
+		"city": "Gombe",
+		"populationCount": 3257000,
+		"populationDensity": 0.17354006820119353
+	},
+	{
+		"area": 5530,
+		"city": "Owerri",
+		"populationCount": 5408800,
+		"populationDensity": 0.9780831826401447
+	},
+	{
+		"area": 23154,
+		"city": "Dutse",
+		"populationCount": 5828200,
+		"populationDensity": 0.2517146065474648
+	},
+	{
+		"area": 46053,
+		"city": "Kaduna",
+		"populationCount": 8252400,
+		"populationDensity": 0.1791935378802684
+	},
+	{
+		"area": 20131,
+		"city": "Kano",
+		"populationCount": 13076900,
+		"populationDensity": 0.6495901842928816
+	},
+	{
+		"area": 24192,
+		"city": "Katsina",
+		"populationCount": 7831300,
+		"populationDensity": 0.32371445105820107
+	},
+	{
+		"area": 36800,
+		"city": "Birnin Kebbi",
+		"populationCount": 4440000,
+		"populationDensity": 0.12065217391304348
+	},
+	{
+		"area": 29833,
+		"city": "Lokoja",
+		"populationCount": 4473500,
+		"populationDensity": 0.14995139610498442
+	},
+	{
+		"area": 36825,
+		"city": "Ilorin",
+		"populationCount": 3192900,
+		"populationDensity": 0.08670468431771894
+	},
+	{
+		"area": 3345,
+		"city": "Ikeja",
+		"populationCount": 12550600,
+		"populationDensity": 3.752047832585949
+	},
+	{
+		"area": 27117,
+		"city": "Lafia",
+		"populationCount": 2523400,
+		"populationDensity": 0.09305601652100158
+	},
+	{
+		"area": 76363,
+		"city": "Minna",
+		"populationCount": 5556200,
+		"populationDensity": 0.07276036824116391
+	},
+	{
+		"area": 16762,
+		"city": "Abeokuta",
+		"populationCount": 5217700,
+		"populationDensity": 0.3112814699916478
+	},
+	{
+		"area": 14606,
+		"city": "Akure",
+		"populationCount": 4671700,
+		"populationDensity": 0.31984800766808164
+	},
+	{
+		"area": 9251,
+		"city": "Oshogbo",
+		"populationCount": 4705600,
+		"populationDensity": 0.5086585234028753
+	},
+	{
+		"area": 28454,
+		"city": "Ibadan",
+		"populationCount": 7840900,
+		"populationDensity": 0.2755640683207985
+	},
+	{
+		"area": 30913,
+		"city": "Jos",
+		"populationCount": 4200400,
+		"populationDensity": 0.1358781095332061
+	},
+	{
+		"area": 11077,
+		"city": "Port Harcourt",
+		"populationCount": 7303900,
+		"populationDensity": 0.6593752821160964
+	},
+	{
+		"area": 25973,
+		"city": "Sokoto",
+		"populationCount": 4998100,
+		"populationDensity": 0.19243445116082086
+	},
+	{
+		"area": 54473,
+		"city": "Jalingo",
+		"populationCount": 3066800,
+		"populationDensity": 0.05629945110421677
+	},
+	{
+		"area": 45502,
+		"city": "Damaturu",
+		"populationCount": 3294100,
+		"populationDensity": 0.07239462001670256
+	},
+	{
+		"area": 39762,
+		"city": "Gusau",
+		"populationCount": 45154,
+		"populationDensity": 0.0011356068608218903
 	}
 ]

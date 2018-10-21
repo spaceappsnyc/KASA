@@ -10,6 +10,11 @@ def readDataForIdpCamps(idpCampFileName):
     return data
 
 def getDistancesToIdpCamps(userCoordinates):
+    with open("./resources/idpCampWithDistance.json") as f:
+        data = json.load(f)
+    return data
+
+    '''
     idpCamps = readDataForIdpCamps("./resources/idp_camps.json")
     for idpCamp in idpCamps:
         idpCampCoordinates = idpCamp["coordinates"]
@@ -19,4 +24,7 @@ def getDistancesToIdpCamps(userCoordinates):
         except Exception as err:
             print("Error getting distance: " + repr(err))
         idpCamp["distance"] = distance
+    with open('./resources/idpCampWithDistance.json', 'w') as fp:
+        json.dump(idpCamps, fp)
     return idpCamps
+    '''

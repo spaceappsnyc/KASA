@@ -1,0 +1,92 @@
+[
+	{
+		"city": "Abuja",
+		"coordinates": "9.0264834,7.3975932",
+		"country": "Nigeria",
+		"distance": 760038,
+		"latitude": "9.0264834",
+		"longitude": "7.3975932",
+		"name": "Lugbe IDP Camp",
+		"region": "Abuja"
+	},
+	{
+		"city": "Abuja",
+		"coordinates": "9.0264701,7.397593",
+		"country": "Nigeria",
+		"distance": 760038,
+		"latitude": "9.0264701",
+		"longitude": "7.397593",
+		"name": "Area One IDP Camp",
+		"region": "Abuja"
+	},
+	{
+		"city": "Abuja",
+		"coordinates": "9.0141174,7.3495535",
+		"country": "Nigeria",
+		"distance": 755469,
+		"latitude": "9.0141174",
+		"longitude": "7.3495535",
+		"name": "New Kuchingoro IDP Camp",
+		"region": "Abuja"
+	},
+	{
+		"city": "Abuja",
+		"coordinates": "9.0543071,7.25427",
+		"country": "Nigeria",
+		"distance": 743321,
+		"latitude": "9.0543071",
+		"longitude": "7.25427",
+		"name": "Kuje IDP Camp",
+		"region": "Abuja"
+	},
+	{
+		"city": "Lagos",
+		"coordinates": "6.4932649,3.6544819",
+		"country": "Nigeria",
+		"distance": 93353,
+		"latitude": "6.4932649",
+		"longitude": "3.6544819",
+		"name": "Lagos IDP Camp",
+		"region": "Lagos State"
+	},
+	{
+		"city": "Maiduguri",
+		"coordinates": "11.8407948,13.0615934",
+		"country": "Nigeria",
+		"distance": 1591829,
+		"latitude": "11.8407948",
+		"longitude": "13.0615934",
+		"name": "Arabic Teachers College IDP Camp",
+		"region": "Borno State"
+	},
+	{
+		"city": "Maiduguri",
+		"coordinates": "11.8585332,13.1781123",
+		"country": "Nigeria",
+		"distance": 1606891,
+		"latitude": "11.8585332",
+		"longitude": "13.1781123",
+		"name": "Teachers Village IDP Camp",
+		"region": "Borno State"
+	},
+	{
+		"city": "Maiduguri",
+		"coordinates": "11.840812,13.0615935",
+		"country": "Nigeria",
+		"distance": 1591828,
+		"latitude": "11.840812",
+		"longitude": "13.0615935",
+		"name": "National Youth Service Scheme IDP Camp",
+		"region": "Borno State"
+	},
+	{
+		"city": "Maiduguri",
+		"coordinates": "11.8395482,13.1316783",
+		"country": "Nigeria",
+		"distance": 1602070,
+		"latitude": "11.8395482",
+		"longitude": "13.1316783",
+		"name": "Gubio IDP Camp",
+		"region": "Borno State"
+	}
+]

@@ -1,6 +1,8 @@
 from un_clusters import *
 import json
 
+from population_density import optimalPopDensityScore
+
 """
     Given a latitude and longitude we calculate the scores for each potential
     displacement camp location based on measures such as distance from UN clusters,
@@ -17,6 +19,7 @@ def score_calculation(userCoordinates):
     print(unClusterScore)
 
     unClusterScoreList = []
+    popDensityScores = optimalPopDensityScore()
     for unClusterScoreJson in unClusterScore:
         city = unClusterScoreJson["city"]
         latitude = unClusterScoreJson["latitude"]
@@ -24,7 +27,10 @@ def score_calculation(userCoordinates):
         existingDistance = unClusterScoreJson["distance"]
         nearbyIdpCamp = unClusterScoreJson["name"]
         percentageDiff = (existingDistance - shortestDistance)/shortestDistance
-        score = 100 - percentageDiff
+        unScore = 100 - percentageDiff
+        popDensityScore = popDensityScores[city]["score"]
+        score = (unScore * 0.6) + (popDensityScore * 0.4)
+        print(score)
         scoreDict = {"city": city, "nearbyIdpCamp": nearbyIdpCamp, "latitude": latitude, "longitude": longitude, "score": score}
         unClusterScoreList.append(scoreDict)
     print(unClusterScoreList)
