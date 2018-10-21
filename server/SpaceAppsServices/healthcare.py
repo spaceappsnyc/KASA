@@ -23,4 +23,4 @@ def getUserCoordinates():
 
 
 #readDataForHealthcare("./resources/test.csv")
-getUserCoordinates()
+#getUserCoordinates()
