@@ -46,5 +46,3 @@ def score_calculation(userCoordinates):
 
     print(overallScoreList)
     return json.dumps(overallScoreList)
-
-score_calculation("6.5244,3.3792")
