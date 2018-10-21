@@ -2,6 +2,7 @@ from flask import Flask
 from flask import request
 from healthcare import readDataForHealthcare
 from score_calculation import *
+import json
 
 import os, sys
 
@@ -20,3 +21,9 @@ def index():
 def whereToGo():
     obj = score_calculation("6.5244,3.3792")
     return obj
+
+@app.route('/whereToCamp', methods = ['GET'])
+def whereToCamp():
+    with open("./resources/vegetation_means.json") as f:
+        data = json.load(f)
+    return json.dumps(data)
